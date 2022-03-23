@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.28 80">
+	<defs>
+		<style>
+			.cls-1{fill:#d8003e;}.hC{fill:#e82f11;}.hA{fill:#4723ce;}.hB{fill:#310733;}
+		</style>
+	</defs>
+	<g id="delete_this" data-name="delete this">
+		<polygon class="cls-1" points="34.64 0 69.28 20 69.28 60 34.64 80 0 60 0 20 34.64 0" />
+		<line class="cls-1" x1="69.28" y1="20" y2="60" />
+		<line class="cls-1" y1="20" x2="69.28" y2="60" />
+	</g>
+	<g id="front_copy_4" data-name="front copy 4">
+		<polygon class="hC" points="17.32 30 34.64 40 51.95 30.01 34.62 20 17.32 30" />
+		<polygon class="hA" points="34.64 20.59 18.32 30 34.64 39.42 50.96 30 34.64 20.59" />
+		<polygon class="hA" points="17.32 30 17.32 49.99 34.64 59.99 34.64 40 17.32 30" />
+		<polygon class="hB" points="17.82 30.87 34.14 40.29 34.14 59.13 17.82 49.71 17.82 30.87" />
+		<polygon class="hB" points="51.95 30.01 34.64 40 34.64 60 51.94 50.01 51.95 30.01" />
+		<polygon class="hC" points="51.47 30.86 35.13 40.3 35.13 59.14 51.47 49.7 51.47 30.86" />
+		<polygon class="hA" points="34.66 20.01 51.98 30.01 69.28 20 51.96 10 34.66 20.01" />
+		<polygon class="hB" points="34.66 20.01 34.66 40 51.98 30.01 34.66 20.01" />
+		<polygon class="hC" points="69.28 20 51.98 30.01 69.28 40.02 69.28 20" />
+		<polygon class="hA" points="0 20 17.33 30 34.64 20 17.31 9.99 0 20" />
+		<polygon class="hB" points="0 20 0.01 39.99 17.33 30 0 20" />
+		<polygon class="hC" points="34.64 20 17.33 30 34.63 40.01 34.64 20" />
+		<polygon class="hA" points="34.63 40.01 51.95 50.01 69.26 40.02 51.93 30.01 34.63 40.01" />
+		<polygon class="hB" points="34.63 40.01 34.63 60.01 51.96 69.99 51.95 50.01 34.63 40.01" />
+		<polygon class="hC" points="69.26 40.02 51.95 50.01 51.96 70 69.28 60 69.26 40.02" />
+		<polygon class="hA" points="0.03 40.01 17.35 50.01 34.66 40.02 17.33 30.01 0.03 40.01" />
+		<polygon class="hB" points="0.03 40.01 0 60 17.35 70 17.35 50.01 0.03 40.01" />
+		<polygon class="hC" points="34.66 40.02 17.35 50.01 17.35 70.02 34.65 60.03 34.66 40.02" />
+	</g>
+</svg>

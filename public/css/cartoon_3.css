@@ -1,0 +1,180 @@
+html,body{
+    margin: 0;
+    width:100vw; 
+    height:100vh;
+    position: relative;
+
+  }
+  
+  #svgbox{
+
+    width:100%;
+    height:100%;    
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    margin: 0;
+    z-index: 0;
+   }
+
+#svgsky{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 0;
+   }
+
+#svgall{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 1;
+}
+ 
+#bg{
+    width:100%;
+    height:100%;  
+    position: absolute;
+    top:0px;
+    left: 0px;
+
+} 
+
+.s{
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
+.hA4,.hB4,.hC4,.hD4{stroke:#f2421b;stroke-linecap:square;stroke-linejoin:round;stroke-width:4px;}
+.hC4{fill:#e7ea93;}
+.hB4{fill:#dec686;}
+.hA4{fill:#ecd682;}
+.hD4{fill:#fdffb9;}
+
+.hA,.hB,.hC,.hD{stroke:#f2421b;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hC{fill:#e7ea93;}
+.hB{fill:#dec686;}
+.hA{fill:#ecd682;}
+.hD{fill:#fdffb9;}
+
+.hAsh,.hBsh,.hCsh,.hblk{stroke:#f2421b;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hAsh{fill:#fcffb2;}
+.hBsh{fill:#fbff99;}
+.hCsh{fill:#fdffc7;}
+.hblk{fill:#f15a0c;}
+
+.hP{fill: none; stroke:#f2421b;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hP4{fill: none; stroke:#f2421b;stroke-linecap:square;stroke-linejoin:round;stroke-width:4px;}
+  
+/* .bgcolor{background-color:#809dfd;} */
+svg{background: linear-gradient(#d2d794, #e0e69c);}
+
+.none{ fill:none; }
+.op0{fill:#fff;fill-opacity:0}
+
+/* ppl */
+.pplstork,.ppl,.ppr{stroke:#f2421b;}
+.ppl{fill:#f15a0c;}
+.ppr{fill:#fdffc7;}
+.ppl,.ppr{stroke-linecap:square;}
+.pplstork,ppl,.ppr{stroke-linejoin:round;}
+.pplstork{fill:none;stroke-linecap:round;}
+.pplstork,.ppl,.ppr{stroke-width:2px;}
+
+/* house */
+.hHOUS1,.hHOUS2,.hHOUS3,.hHOUS4,.hHOUS5{stroke:#f2421b;stroke-linejoin:round;stroke-width:2px;stroke-linecap:round;}
+.hHOUS1{fill:#fbff99;}
+.hHOUS2{fill:none;}
+.hHOUS3{fill:#fbff99;}
+.hHOUS4{fill:#f15a0c;}
+.hHOUS5{fill:#e7ea93;}
+
+/* astronaut */
+.hASTR1,.hASTR3,.hASTR4{stroke:#f2421b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hASTR1{fill:#fbff99;}
+.hASTR3{fill:#ecd682;}
+.hASTR4{fill:#fdffc7;}
+
+/* rocket */
+.hR{fill:#fdffc7;}
+.hR,.hW{stroke:#f2421b;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hW{fill:#ecd682;}
+ 
+/* sincos */
+.hSIN{fill:none; stroke:#dec686;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hTRAN1,.hTRAN2,.hTRAN3{stroke:#f2421b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hTRAN3{fill:#fdffc7;}
+.hTRAN1{fill:none;}
+
+/* dot */
+.hDOT{fill:none; stroke:#dec686;stroke-linejoin:round;stroke-width:2px;} 
+
+/* humid */
+.hHUM1{fill:#dec686;}
+.hHUM1,.hHUM2{stroke:#f2421b;stroke-linejoin:round;stroke-width:2px;}
+.hHUM2{fill:#e7ea93;}
+
+/* enlighten */
+.hEYE1{fill:#e7ea93;}
+.hEYE1{stroke:#f2421b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEYE2{fill:#f15a0c;}
+
+/* evident */
+.hEV1{fill:#fdffc7;}
+.hEV1,.hEV2,.hEV3{stroke:#f2421b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEV2{fill:#dec686;}
+.hEV3{fill:#f15a0c;}
+
+/* flower*/
+.fpatal{fill:#dec686;}
+.fFLOW1,.fFLOW2,.fFLOW3,.fFLOW4{stroke:#f2421b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.fFLOW1{fill:#cf9d88;}
+.fFLOW2{fill:#ecd682;}
+.fFLOW3{fill:#cf9d88;}
+.fFLOW4{fill:none; }
+
+/* rabbit */
+.hRAT1{fill:#fdffc7;stroke-width:2px;stroke:#f2421b;stroke-linejoin:round;}
+.hRAT2{fill:#f2421b;}
+.hRAT3{fill:#dedfeb;}
+.hANS{fill:#ecd682; stroke: none;}
+.hS2{fill:none; stroke-width:2px; stroke:#f2421b; stroke-linejoin:round; stroke-linecap:round;}
+
+/* hamster */
+.hHAM1{fill:#dec686;stroke:#bb4c33; stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hHAM2{fill:#fdffc7;}
+.hHAM3{fill:#231f20;}
+.hHAM4{fill:#ffbbce;}
+.hHAM5{fill:#f2421b; fill-opacity:0.2; stroke:#f2421b; stroke-width:2px;}
+
+
+/* cloud */
+.clS4{stroke:#f2421b;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;}
+.clS2{stroke:#f2421b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.cl01{fill:#eb6847; }
+.cl02{fill:#f26d4e; }
+.cl03{fill:#ef5c37; }
+.cl04{fill:#ff5a35; }
+.cl05{fill:#f9603e; }
+.cl06{fill:#e0e69c; }
+.cl07{fill:#e0e69c; }
+.cl08{fill:#e0e69c; }
+.cl09{fill:#e0e69c; }
+.cl10{fill:#e0e69c; }
+
+
+
+.star{
+    animation: color-change 1s infinite;
+  }
+  
+  @keyframes color-change {
+    0% { fill: #e7ea93; }
+    50% { fill: #dec686; }
+    100% { fill: #ecd682; }
+  }
+  

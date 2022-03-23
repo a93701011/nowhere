@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.28 81">
+	<defs>
+		<style>
+			.cls-1{fill:none;stroke:#d8003e;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#e82f11;}.cls-3{fill:#4723ce;}.cls-4{fill:#310733;}
+		</style>
+	</defs>
+	<g id="delete_this" data-name="delete this">
+		<polygon class="cls-1" points="35.14 0.5 69.78 20.5 69.78 60.5 35.14 80.5 0.5 60.5 0.5 20.5 35.14 0.5" />
+		<line class="cls-1" x1="69.78" y1="20.5" x2="0.5" y2="60.5" />
+		<line class="cls-1" x1="0.5" y1="20.5" x2="69.78" y2="60.5" />
+	</g>
+	<g id="front">
+		<polygon class="hC" points="17.82 30.5 35.14 40.5 52.45 30.51 35.12 20.5 17.82 30.5" />
+		<polygon class="hA" points="35.14 21.09 18.82 30.5 35.14 39.92 51.46 30.5 35.14 21.09" />
+		<polygon class="hA" points="17.82 30.5 17.82 50.49 35.14 60.49 35.14 40.5 17.82 30.5" />
+		<polygon class="hB" points="18.32 31.37 34.64 40.79 34.64 59.63 18.32 50.21 18.32 31.37" />
+		<polygon class="hB" points="52.45 30.51 35.14 40.5 35.14 60.5 52.44 50.51 52.45 30.51" />
+		<polygon class="hC" points="51.97 31.36 35.63 40.8 35.63 59.64 51.97 50.2 51.97 31.36" />
+	</g>
+</svg>

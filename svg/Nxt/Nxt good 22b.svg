@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.28 80">
+	<defs>
+		<style>
+			.cls-1{fill:#d8003e;}.hC{fill:#e82f11;}.hA{fill:#4723ce;}.hB{fill:#310733;}
+		</style>
+	</defs>
+	<g id="delete_this" data-name="delete this">
+		<polygon class="cls-1" points="34.64 0 69.28 20 69.28 60 34.64 80 0 60 0 20 34.64 0" />
+		<line class="cls-1" x1="69.28" y1="20" y2="60" />
+		<line class="cls-1" y1="20" x2="69.28" y2="60" />
+	</g>
+	<g id="front">
+		<polygon class="hC" points="17.32 30 34.64 40 51.95 30.01 34.62 20 17.32 30" />
+		<polygon class="hA" points="34.64 20.59 18.32 30 34.64 39.42 50.96 30 34.64 20.59" />
+		<polygon class="hA" points="17.32 30 17.32 49.99 34.64 59.99 34.64 40 17.32 30" />
+		<polygon class="hB" points="17.82 30.87 34.14 40.29 34.14 59.13 17.82 49.71 17.82 30.87" />
+		<polygon class="hB" points="51.95 30.01 34.64 40 34.64 60 51.94 50.01 51.95 30.01" />
+		<polygon class="hC" points="51.47 30.86 35.13 40.3 35.13 59.14 51.47 49.7 51.47 30.86" />
+	</g>
+	<g id="front_copy" data-name="front copy">
+		<polygon class="hC" points="34.66 20.01 51.98 30.01 69.28 20 51.96 10 34.66 20.01" />
+		<polygon class="hA" points="51.98 10.6 35.66 20.01 51.98 29.43 68.3 20.01 51.98 10.6" />
+		<polygon class="hA" points="34.66 20.01 34.66 40 51.98 50 51.98 30.01 34.66 20.01" />
+		<polygon class="hB" points="35.16 20.87 51.48 30.3 51.48 49.14 35.16 39.72 35.16 20.87" />
+		<polygon class="hB" points="69.28 20 51.98 30.01 51.98 50.01 69.28 40.02 69.28 20" />
+		<polygon class="hC" points="68.81 20.87 52.47 30.3 52.47 49.15 68.81 39.71 68.81 20.87" />
+	</g>
+	<g id="front_copy_2" data-name="front copy 2">
+		<polygon class="hC" points="0 20 17.33 30 34.64 20 17.31 9.99 0 20" />
+		<polygon class="hA" points="17.33 10.59 1.01 20 17.33 29.42 33.65 20 17.33 10.59" />
+		<polygon class="hA" points="0 20 0.01 39.99 17.33 49.99 17.33 30 0 20" />
+		<polygon class="hB" points="0.51 20.86 16.83 30.29 16.83 49.13 0.51 39.71 0.51 20.86" />
+		<polygon class="hB" points="34.64 20 17.33 30 17.33 50 34.63 40.01 34.64 20" />
+		<polygon class="hC" points="34.17 20.86 17.82 30.29 17.82 49.14 34.17 39.7 34.17 20.86" />
+	</g>
+	<g id="front_copy_3" data-name="front copy 3">
+		<polygon class="hC" points="34.63 40.01 51.95 50.01 69.26 40.02 51.93 30.01 34.63 40.01" />
+		<polygon class="hA" points="51.95 30.6 35.63 40.01 51.95 49.43 68.27 40.01 51.95 30.6" />
+		<polygon class="hA" points="34.63 40.01 34.63 60.01 51.96 69.99 51.95 50.01 34.63 40.01" />
+		<polygon class="hB" points="35.13 40.88 51.45 50.3 51.45 69.15 35.13 59.72 35.13 40.88" />
+		<polygon class="hB" points="69.26 40.02 51.95 50.01 51.96 70 69.28 60 69.26 40.02" />
+		<polygon class="hC" points="68.78 40.87 52.44 50.31 52.44 69.15 68.78 59.72 68.78 40.87" />
+	</g>
+	<g id="front_copy_4" data-name="front copy 4">
+		<polygon class="hC" points="0.03 40.01 17.35 50.01 34.66 40.02 17.33 30.01 0.03 40.01" />
+		<polygon class="hA" points="17.35 30.61 1.03 40.02 17.35 49.44 33.67 40.01 17.35 30.61" />
+		<polygon class="hA" points="0.03 40.01 0 60 17.35 70 17.35 50.01 0.03 40.01" />
+		<polygon class="hB" points="0.53 40.88 16.85 50.3 16.85 69.15 0.53 59.73 0.53 40.88" />
+		<polygon class="hB" points="34.66 40.02 17.35 50.01 17.35 70.02 34.65 60.03 34.66 40.02" />
+		<polygon class="hC" points="34.18 40.87 17.84 50.31 17.84 69.16 34.18 59.72 34.18 40.87" />
+	</g>
+</svg>

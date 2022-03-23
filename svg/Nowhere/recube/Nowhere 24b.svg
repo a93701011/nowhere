@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 84">
+	<defs>
+		<style>
+			.cls-1,.cls-5{fill:#7d2fc9;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{stroke:#262626;stroke-linecap:square;stroke-linejoin:round;}.cls-1,.cls-4,.cls-6{stroke-width:4px;}.cls-2,.cls-6{fill:#d299ff;}.cls-2,.cls-3,.cls-5,.cls-7,.cls-8,.cls-9{stroke-width:2px;}.cls-3,.cls-4{fill:#ab5cff;}.cls-7{fill:#ff2976;}.cls-8{fill:#ffbd56;}.cls-9{fill:#5a5aff;}
+		</style>
+	</defs>
+	<g id="C">
+		<polygon id="hCsh" class="cls-1" points="71.28 22 36.64 42 36.64 82 71.28 62 71.28 22" />
+		<polygon id="hAsh" class="cls-2" points="45.3 60.29 45.3 67 62.62 57 56.84 53.58 45.3 60.29" />
+		<polygon id="hBsh" class="cls-3" points="62.62 37 56.87 40.32 56.84 53.58 62.62 57 62.62 37" />
+	</g>
+	<g id="B">
+		<polygon id="hBsh-2" data-name="hBsh" class="cls-4" points="2 22 2 62 36.64 82 36.64 42 2 22" />
+		<polygon id="hAsh-2" data-name="hAsh" class="cls-2" points="10.66 57 27.98 67 28.06 60.32 16.45 53.58 10.66 57" />
+		<polygon id="hCsh-2" data-name="hCsh" class="cls-5" points="16.41 40.32 10.66 37 10.66 57 16.45 53.58 16.41 40.32" />
+	</g>
+	<g id="A">
+		<polygon id="hAsh-3" data-name="hAsh" class="cls-6" points="71.28 22 36.64 2 2 22 36.64 42 71.28 22" />
+		<polygon id="hBsh-3" data-name="hBsh" class="cls-3" points="36.64 12 36.64 18.73 48.13 25.37 53.96 22 36.64 12" />
+		<polygon id="hCsh-3" data-name="hCsh" class="cls-5" points="36.64 12 19.32 22 25.09 25.33 36.64 18.73 36.64 12" />
+		<polygon id="hA" class="cls-7" points="36.64 42.51 16.45 53.58 28.06 60.32 36.64 57 45.3 60.29 56.84 53.58 36.64 42.51" />
+		<polygon id="hB" class="cls-8" points="25.09 25.33 25.09 35.33 16.41 40.32 16.45 53.58 36.64 42.51 36.64 18.73 25.09 25.33" />
+		<polygon id="hC" class="cls-9" points="48.13 35.37 48.13 25.37 36.64 18.73 36.64 42.51 56.84 53.58 56.87 40.32 48.13 35.37" />
+	</g>
+</svg>

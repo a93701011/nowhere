@@ -1,0 +1,8 @@
+<svg id="petal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.85 5.75">
+	<defs>
+		<style>
+			.fpatal{fill:#ba00ff;}
+		</style>
+	</defs>
+	<path class="fpatal" d="M34,40.44c4.94,1.06,5.72-3.95,10.24-3.25,3,.47,1.41,4.43-1.06,5.17C37,44.22,34,40.44,34,40.44Z" transform="translate(-34.04 -37.13)" />
+</svg>

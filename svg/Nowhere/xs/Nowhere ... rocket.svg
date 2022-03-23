@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.89 20.91">
+	<defs>
+		<style>
+			.cls-1{fill:#4a46c8;}.cls-1,.cls-2{stroke:#262626;stroke-linejoin:round;}.cls-1,.cls-3{stroke-linecap:round;}.cls-1,.cls-2,.cls-3{stroke-width:2px;}.cls-2{fill:#fff;}.cls-3{fill:none;stroke:#231f20;stroke-miterlimit:10;}
+		</style>
+	</defs>
+	<g id="rocket_copy" data-name="rocket copy">
+		<path id="hR" class="cls-1" d="M23.53,51.33h7.89l5.52-4c0-2.77-4.26-5-9.52-5C27.42,42.28,30.16,46.3,23.53,51.33Z" transform="translate(1.55 -31.42)" />
+		<path id="hR-2" data-name="hR" class="cls-1" d="M23.53,32.42h7.89l5.52,4c0,2.78-4.26,5-9.52,5C27.42,41.47,30.16,37.44,23.53,32.42Z" transform="translate(1.55 -31.42)" />
+		<path id="hP" class="cls-2" d="M55.34,42.28c0-3.83-6.73-6.68-15.34-6.68H26.74V49.09S35.6,49,39.91,49C50.7,49,55.34,46.11,55.34,42.28Z" transform="translate(1.55 -31.42)" />
+		<path id="hC" class="cls-1" d="M36.94,42.28a25.35,25.35,0,0,0-8.39-1.21c-5.26,0-6.71,1.21-6.71,1.21s1.45,1.2,6.71,1.2A25.54,25.54,0,0,0,36.94,42.28Z" transform="translate(1.55 -31.42)" />
+		<circle id="hC-2" data-name="hC" class="cls-1" cx="45.84" cy="10.86" r="2.91" />
+		<path id="hC-3" data-name="hC" class="cls-1" d="M49.23,48c4.21-1.17,6.11-3.23,6.11-5.68,0-2.24-2.33-4.14-6-5.34a18.11,18.11,0,0,1,.8,5.34A17.84,17.84,0,0,1,49.23,48Z" transform="translate(1.55 -31.42)" />
+	</g>
+	<g id="Layer_13" data-name="Layer 13">
+		<circle class="cls-3" cx="16.77" cy="10.86" r="1.02" />
+		<circle class="cls-3" cx="9.39" cy="10.86" r="1.02" />
+		<circle class="cls-3" cx="2.02" cy="10.86" r="1.02" />
+	</g>
+</svg>

@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 84">
+	<defs>
+		<style>
+			.cls-1,.cls-2,.cls-3,.cls-5{fill:none;}.cls-1,.cls-2{stroke:#d8003e;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.hC,.hA{stroke-linecap:round;stroke-linejoin:round;}.cls-1,.cls-3{stroke-width:4px;}.cls-2{stroke-width:0.25px;}.cls-3,.cls-4,.cls-5,.hC,.hA{stroke:#262626;}.cls-4{fill:#ffbd56;}.cls-4,.cls-5,.hC,.hA{stroke-width:2px;}.hC{fill:#5a5aff;}.hA{fill:#da85e3;}
+		</style>
+	</defs>
+	<g id="delete">
+		<polygon class="cls-1" points="36.64 2 2 22 2 62 36.64 82 71.28 62 71.28 22 36.64 2" />
+		<line class="cls-2" x1="10.66" y1="17" x2="2" y2="32" />
+		<line class="cls-2" x1="2" y1="52" x2="10.66" y2="67" />
+		<line class="cls-2" x1="71.28" y1="52" x2="62.62" y2="67" />
+		<line class="cls-2" x1="27.98" y1="77" x2="45.3" y2="77" />
+		<line class="cls-2" x1="2" y1="22" x2="71.28" y2="22" />
+		<line class="cls-2" x1="2" y1="62" x2="71.28" y2="62" />
+		<line class="cls-2" x1="36.64" y1="2" x2="2" y2="62" />
+		<line class="cls-2" x1="71.28" y1="22" x2="36.64" y2="82" />
+		<line class="cls-2" x1="71.28" y1="62" x2="36.64" y2="2" />
+		<line class="cls-2" x1="36.64" y1="82" x2="2" y2="22" />
+		<line class="cls-2" x1="53.96" y1="12" x2="19.32" y2="72" />
+		<line class="cls-2" x1="19.32" y1="12" x2="53.96" y2="72" />
+		<line class="cls-2" x1="2" y1="42" x2="71.28" y2="42" />
+		<line class="cls-2" x1="19.32" y1="12" x2="53.96" y2="12" />
+		<line class="cls-2" x1="71.28" y1="42" x2="53.96" y2="12" />
+		<line class="cls-2" x1="53.96" y1="72" x2="71.28" y2="42" />
+		<line class="cls-2" x1="19.32" y1="72" x2="53.96" y2="72" />
+		<line class="cls-2" x1="2" y1="42" x2="19.32" y2="72" />
+		<line class="cls-2" x1="19.32" y1="12" x2="2" y2="42" />
+		<line class="cls-2" x1="53.96" y1="12" x2="2" y2="42" />
+		<line class="cls-2" x1="53.96" y1="72" x2="53.96" y2="12" />
+		<line class="cls-2" x1="2" y1="42" x2="53.96" y2="72" />
+		<line class="cls-2" x1="19.32" y1="12" x2="19.32" y2="72" />
+		<line class="cls-2" x1="71.28" y1="42" x2="19.32" y2="72" />
+		<line class="cls-2" x1="19.32" y1="12" x2="71.28" y2="42" />
+		<line class="cls-2" x1="71.28" y1="32" x2="2" y2="32" />
+		<line class="cls-2" x1="71.28" y1="52" x2="2" y2="52" />
+		<line class="cls-2" x1="62.62" y1="17" x2="27.98" y2="77" />
+		<line class="cls-2" x1="45.3" y1="7" x2="10.66" y2="67" />
+		<line class="cls-2" x1="27.98" y1="7" x2="27.98" y2="77" />
+		<line class="cls-2" x1="10.66" y1="17" x2="10.66" y2="67" />
+		<line class="cls-2" x1="62.62" y1="17" x2="10.66" y2="17" />
+		<line class="cls-2" x1="62.62" y1="67" x2="62.62" y2="17" />
+		<line class="cls-2" x1="10.66" y1="67" x2="62.62" y2="67" />
+		<line class="cls-2" x1="10.66" y1="17" x2="71.28" y2="52" />
+		<line class="cls-2" x1="2" y1="32" x2="62.62" y2="67" />
+		<line class="cls-2" x1="2" y1="52" x2="45.3" y2="77" />
+		<line class="cls-2" x1="71.28" y1="52" x2="27.98" y2="77" />
+		<line class="cls-2" x1="71.28" y1="32" x2="10.66" y2="67" />
+		<line class="cls-2" x1="62.62" y1="17" x2="2" y2="52" />
+		<line class="cls-2" x1="45.3" y1="7" x2="45.3" y2="77" />
+		<line class="cls-2" x1="27.98" y1="7" x2="45.3" y2="7" />
+		<line class="cls-2" x1="62.62" y1="67" x2="27.98" y2="7" />
+		<line class="cls-2" x1="10.66" y1="17" x2="45.3" y2="77" />
+		<line class="cls-2" x1="71.28" y1="32" x2="62.62" y2="17" />
+		<line class="cls-2" x1="27.98" y1="7" x2="71.28" y2="32" />
+		<line class="cls-2" x1="45.3" y1="7" x2="2" y2="32" />
+		<line class="cls-2" x1="40.97" y1="4.5" x2="2" y2="27" />
+		<line class="cls-2" x1="32.31" y1="4.5" x2="71.28" y2="27" />
+		<line class="cls-2" x1="32.31" y1="79.5" x2="32.31" y2="4.5" />
+		<line class="cls-2" x1="40.97" y1="4.5" x2="40.97" y2="79.5" />
+		<line class="cls-2" x1="71.28" y1="27" x2="2" y2="27" />
+		<line class="cls-2" x1="71.28" y1="37" x2="2" y2="37" />
+		<line class="cls-2" x1="2" y1="47" x2="71.28" y2="47" />
+		<line class="cls-2" x1="71.28" y1="57" x2="2" y2="57" />
+		<line class="cls-2" x1="27.98" y1="77" x2="2" y2="32" />
+		<line class="cls-2" x1="49.63" y1="74.5" x2="14.99" y2="14.5" />
+		<line class="cls-2" x1="40.97" y1="4.5" x2="6.33" y2="64.5" />
+		<line class="cls-2" x1="45.3" y1="7" x2="71.28" y2="52" />
+		<line class="cls-2" x1="23.65" y1="74.5" x2="71.28" y2="47" />
+		<line class="cls-2" x1="6.33" y1="64.5" x2="71.28" y2="27" />
+		<line class="cls-2" x1="71.28" y1="37" x2="14.99" y2="69.5" />
+		<line class="cls-2" x1="14.99" y1="14.5" x2="14.99" y2="69.5" />
+		<line class="cls-2" x1="2" y1="57" x2="66.95" y2="19.5" />
+		<line class="cls-2" x1="66.95" y1="64.5" x2="66.95" y2="19.5" />
+		<line class="cls-2" x1="58.29" y1="69.5" x2="58.29" y2="14.5" />
+		<line class="cls-2" x1="49.63" y1="74.5" x2="49.63" y2="9.5" />
+		<line class="cls-2" x1="2" y1="52" x2="27.98" y2="7" />
+		<line class="cls-2" x1="71.28" y1="57" x2="6.33" y2="19.5" />
+		<line class="cls-2" x1="23.65" y1="74.5" x2="58.29" y2="14.5" />
+		<line class="cls-2" x1="2" y1="47" x2="58.29" y2="14.5" />
+		<line class="cls-2" x1="49.63" y1="9.5" x2="2" y2="37" />
+		<polyline class="cls-2" points="66.95 19.5 49.63 49.5 32.31 79.5" />
+		<line class="cls-2" x1="66.95" y1="64.5" x2="2" y2="27" />
+		<line class="cls-2" x1="2" y1="37" x2="58.29" y2="69.5" />
+		<line class="cls-2" x1="71.28" y1="47" x2="14.99" y2="14.5" />
+		<line class="cls-2" x1="14.99" y1="69.5" x2="49.63" y2="9.5" />
+		<line class="cls-2" x1="49.63" y1="74.5" x2="2" y2="47" />
+		<line class="cls-2" x1="71.28" y1="57" x2="32.31" y2="79.5" />
+		<line class="cls-2" x1="6.33" y1="19.5" x2="6.33" y2="64.5" />
+		<line class="cls-2" x1="40.97" y1="79.5" x2="6.33" y2="19.5" />
+		<line class="cls-2" x1="71.28" y1="37" x2="23.65" y2="9.5" />
+		<line class="cls-2" x1="58.29" y1="69.5" x2="23.65" y2="9.5" />
+		<line class="cls-2" x1="23.65" y1="74.5" x2="23.65" y2="9.5" />
+		<line class="cls-2" x1="66.95" y1="64.5" x2="32.31" y2="4.5" />
+		<line class="cls-2" x1="40.97" y1="79.5" x2="2" y2="57" />
+		<line class="cls-2" x1="71.28" y1="32" x2="45.3" y2="77" />
+		<path class="cls-2" d="M34.23,40" transform="translate(-3.36 2)" />
+		<path class="cls-2" d="M34.17,70.09" transform="translate(-3.36 2)" />
+		<line class="cls-2" x1="7.75" y1="32.03" x2="7.77" y2="62" />
+		<line class="cls-2" x1="2" y1="22" x2="71.28" y2="62" />
+		<line class="cls-2" x1="71.28" y1="22" x2="2" y2="62" />
+		<line class="cls-2" x1="36.64" y1="2" x2="36.64" y2="79.5" />
+	</g>
+	<g id="B">
+		<polyline class="hP" points="27.98 7 32.33 9.51 32.33 14.53 36.64 17 36.64 22 40.99 24.49 40.97 29.5 45.3 32 45.29 37.01 49.66 39.5 49.66 44.52 53.99 47.02 53.96 52 58.29 54.5 58.29 59.5 62.62 62 62.62 67 45.3 77 10.66 57 10.66 17 27.98 7" />
+		<polyline class="hB" points="10.66 17 10.66 57 45.3 77 45.3 72 14.99 19.5 10.66 17" />
+		<g data-name="hP maybe">
+			<polyline class="hP" points="45.3 77 45.3 72 40.99 69.54 40.99 64.46 36.64 62 36.64 57 32.33 54.51 32.31 49.5 27.97 47.02 27.97 41.99 23.65 39.5 23.62 34.52 19.29 32.05 19.29 26.98 14.97 24.49 14.99 19.5 10.66 17" />
+		</g>
+	</g>
+	<g id="C">
+		<g id="hC">
+			<polygon class="hC" points="45.3 72 62.62 62 62.62 67 45.3 77 45.3 72" />
+			<polygon class="hC" points="14.99 19.5 14.97 24.49 32.33 14.53 32.33 9.51 14.99 19.5" />
+			<polygon class="hC" points="19.29 26.98 36.64 17 36.64 22 19.29 32.05 19.29 26.98" />
+			<polygon class="hC" points="23.62 34.52 40.99 24.49 40.97 29.5 23.65 39.5 23.62 34.52" />
+			<polygon class="hC" points="27.97 41.99 45.3 32 45.29 37.01 27.97 47.02 27.97 41.99" />
+			<polygon class="hC" points="32.31 49.5 49.66 39.5 49.66 44.52 32.33 54.51 32.31 49.5" />
+			<polygon class="hC" points="36.64 57 36.64 62 53.96 52 53.99 47.02 36.64 57" />
+			<polygon class="hC" points="40.99 64.46 40.99 69.54 58.29 59.5 58.29 54.5 40.99 64.46" />
+		</g>
+	</g>
+	<g id="A">
+		<g id="hA">
+			<polygon class="hA" points="40.99 69.54 58.29 59.5 62.62 62 45.3 72 40.99 69.54" />
+			<polygon class="hA" points="27.98 7 10.66 17 14.99 19.5 32.33 9.51 27.98 7" />
+			<polygon class="hA" points="14.97 24.49 32.33 14.53 36.64 17 19.29 26.98 14.97 24.49" />
+			<polygon class="hA" points="19.29 32.05 36.64 22 40.99 24.49 23.62 34.52 19.29 32.05" />
+			<polygon class="hA" points="23.65 39.5 40.97 29.5 45.3 32 27.97 41.99 23.65 39.5" />
+			<polygon class="hA" points="27.97 47.02 45.29 37.01 49.66 39.5 32.31 49.5 27.97 47.02" />
+			<polygon class="hA" points="32.33 54.51 49.66 44.52 53.99 47.02 36.64 57 32.33 54.51" />
+			<polygon class="hA" points="36.64 62 53.96 52 58.29 54.5 40.99 64.46 36.64 62" />
+		</g>
+	</g>
+</svg>

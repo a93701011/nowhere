@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 150.73">
+	<defs>
+		<style>
+			.cls-1,.cls-5{fill:#e6decc;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#262626;}.cls-1,.cls-3,.cls-4{stroke-linecap:square;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7{stroke-linejoin:round;}.cls-1,.cls-6{stroke-width:4px;}.cls-2,.cls-6,.cls-7{fill:none;}.cls-2,.cls-5,.cls-6,.cls-7{stroke-linecap:round;}.cls-2,.cls-3,.cls-4{stroke-width:2px;}.cls-3{fill:#ffbd56;}.cls-4{fill:#5a5aff;}.cls-6,.cls-7{stroke:#d8003e;}.cls-7{stroke-width:0.25px;}
+		</style>
+	</defs>
+	<g id="platform">
+		<polygon id="hA" class="cls-1" points="71.28 88.73 36.64 68.73 2 88.73 36.64 108.73 71.28 88.73" />
+	</g>
+   <!-- <g id="_1" data-name="1">
+		<polyline class="cls-2" points="30.87 75.42 30.87 82.06 30.87 88.74" />
+		<polyline class="cls-2" points="42.41 75.42 42.41 82.08 42.41 88.73" />
+		<path id="hB" class="cls-3" d="M38.08,58.67a6.69,6.69,0,0,0-6.7,6.65V69a6.7,6.7,0,0,0,6.7,6.66H40l0-17Z" transform="translate(-3.36 1)" />
+		<path id="hC" class="cls-4" d="M41.84,58.67H40l0,17h1.84A6.7,6.7,0,0,0,48.54,69V65.32A6.7,6.7,0,0,0,41.84,58.67Z" transform="translate(-3.36 1)" />
+		<path id="hB-2" data-name="hB" class="cls-3" d="M35.78,38.75a6.11,6.11,0,0,0-6.09,6.09v3.63a6.11,6.11,0,0,0,6.09,6.08H40l0-15.8Z" transform="translate(-3.36 1)" />
+		<path id="hC-2" data-name="hC" class="cls-4" d="M44.14,38.75H40l0,15.8h4.13a6.11,6.11,0,0,0,6.09-6.08V44.84A6.11,6.11,0,0,0,44.14,38.75Z" transform="translate(-3.36 1)" />
+		<line class="cls-5" x1="30.41" y1="49.83" x2="33.04" y2="49.83" />
+		<line class="cls-5" x1="30.44" y1="45.47" x2="33.07" y2="45.47" />
+		<line class="cls-5" x1="41.14" y1="48.56" x2="43" y2="46.69" />
+		<line class="cls-5" x1="43" y1="48.56" x2="41.14" y2="46.69" />
+		<circle class="cls-5" cx="31.6" cy="47.62" r="0.17" />
+		<circle id="hC-3" data-name="hC" class="cls-4" cx="50.22" cy="72.25" r="2.25" />
+		<circle id="hB-3" data-name="hB" class="cls-3" cx="23.03" cy="72.25" r="2.25" />
+	</g>   
+
+	 <g id="_3" data-name="3">
+		<polyline class="cls-2" points="30.87 79.42 28.87 84.06 30.87 88.74" />
+		<polyline class="cls-2" points="42.41 79.42 40.41 84.08 42.41 88.73" />
+		<path id="hB-7" data-name="hB" class="cls-3" d="M38.08,62.67a6.69,6.69,0,0,0-6.7,6.65V73a6.7,6.7,0,0,0,6.7,6.66H40l0-17Z" transform="translate(-3.36 1)" />
+		<path id="hC-7" data-name="hC" class="cls-4" d="M41.84,62.67H40l0,17h1.84A6.7,6.7,0,0,0,48.54,73V69.32A6.7,6.7,0,0,0,41.84,62.67Z" transform="translate(-3.36 1)" />
+		<path id="hB-8" data-name="hB" class="cls-3" d="M35.78,42.75a6.11,6.11,0,0,0-6.09,6.09v3.63a6.11,6.11,0,0,0,6.09,6.08H40l0-15.8Z" transform="translate(-3.36 1)" />
+		<path id="hC-8" data-name="hC" class="cls-4" d="M44.14,42.75H40l0,15.8h4.13a6.11,6.11,0,0,0,6.09-6.08V48.84A6.11,6.11,0,0,0,44.14,42.75Z" transform="translate(-3.36 1)" />
+		<line class="cls-5" x1="30.41" y1="53.83" x2="33.04" y2="53.83" />
+		<line class="cls-5" x1="30.44" y1="49.47" x2="33.07" y2="49.47" />
+		<line class="cls-5" x1="41.14" y1="52.56" x2="43" y2="50.69" />
+		<line class="cls-5" x1="43" y1="52.56" x2="41.14" y2="50.69" />
+		<circle class="cls-5" cx="31.6" cy="51.62" r="0.17" />
+		<circle id="hC-9" data-name="hC" class="cls-4" cx="46.22" cy="76.25" r="2.25" />
+		<circle id="hB-9" data-name="hB" class="cls-3" cx="27.03" cy="76.25" r="2.25" />
+	</g> 
+-->
+
+	  <!-- <g id="_7" data-name="7">
+		<polyline class="cls-2" points="30.87 50.42 30.87 59.06 30.87 68.74" />
+		<polyline class="cls-2" points="42.41 50.42 42.41 59.08 42.41 68.73" />
+		<path id="hB-19" data-name="hB" class="cls-3" d="M38.08,30.67a6.69,6.69,0,0,0-6.7,6.65V44a6.7,6.7,0,0,0,6.7,6.66H40l0-20Z" transform="translate(-3.36 1)" />
+		<path id="hC-18" data-name="hC" class="cls-4" d="M41.84,30.67H40l0,20h1.84A6.7,6.7,0,0,0,48.54,44V37.32A6.7,6.7,0,0,0,41.84,30.67Z" transform="translate(-3.36 1)" />
+		<path id="hB-20" data-name="hB" class="cls-3" d="M35.78,10.75a6.11,6.11,0,0,0-6.09,6.09v3.63a6.11,6.11,0,0,0,6.09,6.08H40l0-15.8Z" transform="translate(-3.36 1)" />
+		<path id="hC-19" data-name="hC" class="cls-4" d="M44.14,10.75H40l0,15.8h4.13a6.11,6.11,0,0,0,6.09-6.08V16.84A6.11,6.11,0,0,0,44.14,10.75Z" transform="translate(-3.36 1)" />
+		<line class="cls-5" x1="30.41" y1="21.83" x2="33.04" y2="21.83" />
+		<line class="cls-5" x1="30.44" y1="17.47" x2="33.07" y2="17.47" />
+		<line class="cls-5" x1="41.14" y1="20.56" x2="43" y2="18.69" />
+		<line class="cls-5" x1="43" y1="20.56" x2="41.14" y2="18.69" />
+		<circle class="cls-5" cx="31.6" cy="19.62" r="0.17" />
+		<circle id="hC-20" data-name="hC" class="cls-4" cx="58.22" cy="6.25" r="2.25" />
+		<circle id="hB-21" data-name="hB" class="cls-3" cx="14.03" cy="6.25" r="2.25" />
+	</g> 
+	
+
+	 <g id="_9" data-name="9">
+		<polyline class="cls-2" points="30.87 42.42 30.87 51.06 30.87 58.74" />
+		<polyline class="cls-2" points="42.41 42.42 42.41 51.08 42.41 58.73" />
+		<path id="hB-25" data-name="hB" class="cls-3" d="M38.08,24.67c-3.69,0-8.7,3-8.7,6.65V36c0,3.66,5,6.66,8.7,6.66H40l0-18Z" transform="translate(-3.36 1)" />
+		<path id="hC-23" data-name="hC" class="cls-4" d="M41.84,24.67H40l0,18h1.84c3.68,0,8.7-3,8.7-6.66V31.32C50.54,27.66,45.52,24.67,41.84,24.67Z" transform="translate(-3.36 1)" />
+		<path id="hB-26" data-name="hB" class="cls-3" d="M35.78,7.75a6.11,6.11,0,0,0-6.09,6.09v3.63a6.11,6.11,0,0,0,6.09,6.08H40l0-15.8Z" transform="translate(-3.36 1)" />
+		<path id="hC-24" data-name="hC" class="cls-4" d="M44.14,7.75H40l0,15.8h4.13a6.11,6.11,0,0,0,6.09-6.08V13.84A6.11,6.11,0,0,0,44.14,7.75Z" transform="translate(-3.36 1)" />
+		<line class="cls-5" x1="30.41" y1="18.83" x2="33.04" y2="18.83" />
+		<line class="cls-5" x1="30.44" y1="14.47" x2="33.07" y2="14.47" />
+		<line class="cls-5" x1="41.14" y1="17.56" x2="43" y2="15.69" />
+		<line class="cls-5" x1="43" y1="17.56" x2="41.14" y2="15.69" />
+		<circle class="cls-5" cx="31.6" cy="16.62" r="0.17" />
+		<circle id="hC-25" data-name="hC" class="cls-4" cx="64.22" cy="11.25" r="2.25" />
+		<circle id="hB-27" data-name="hB" class="cls-3" cx="8.03" cy="11.25" r="2.25" />
+	</g>  -->
+
+    
+	 <g id="_1_copy" data-name="1 copy">
+		<polyline class="cls-2" points="30.87 75.42 30.87 82.06 30.87 88.74" />
+		<polyline class="cls-2" points="42.41 75.42 42.41 82.08 42.41 88.73" />
+		<path id="hB-37" data-name="hB" class="cls-3" d="M38.08,58.67a6.69,6.69,0,0,0-6.7,6.65V69a6.7,6.7,0,0,0,6.7,6.66H40l0-17Z" transform="translate(-3.36 1)" />
+		<path id="hC-34" data-name="hC" class="cls-4" d="M41.84,58.67H40l0,17h1.84A6.7,6.7,0,0,0,48.54,69V65.32A6.7,6.7,0,0,0,41.84,58.67Z" transform="translate(-3.36 1)" />
+		<path id="hB-38" data-name="hB" class="cls-3" d="M35.78,38.75a6.11,6.11,0,0,0-6.09,6.09v3.63a6.11,6.11,0,0,0,6.09,6.08H40l0-15.8Z" transform="translate(-3.36 1)" />
+		<path id="hC-35" data-name="hC" class="cls-4" d="M44.14,38.75H40l0,15.8h4.13a6.11,6.11,0,0,0,6.09-6.08V44.84A6.11,6.11,0,0,0,44.14,38.75Z" transform="translate(-3.36 1)" />
+		<line class="cls-5" x1="30.41" y1="49.83" x2="33.04" y2="49.83" />
+		<line class="cls-5" x1="30.44" y1="45.47" x2="33.07" y2="45.47" />
+		<line class="cls-5" x1="41.14" y1="48.56" x2="43" y2="46.69" />
+		<line class="cls-5" x1="43" y1="48.56" x2="41.14" y2="46.69" />
+		<circle class="cls-5" cx="31.6" cy="47.62" r="0.17" />
+		<circle id="hC-36" data-name="hC" class="cls-4" cx="64.22" cy="42.25" r="2.25" />
+		<circle id="hB-39" data-name="hB" class="cls-3" cx="8.03" cy="42.25" r="2.25" />
+	</g>
+ 
+	<g id="_1_copy_2" data-name="1 copy 2">
+		<polyline class="cls-2" points="30.87 76.42 28.87 83.06 30.87 88.74" />
+		<polyline class="cls-2" points="42.41 76.42 40.41 83.08 42.41 88.73" />
+		<path id="hB-40" data-name="hB" class="cls-3" d="M38.08,59.67c-3.69,0-8.7,3-8.7,6.65V70c0,3.66,5,6.66,8.7,6.66H40l0-17Z" transform="translate(-3.36 1)" />
+		<path id="hC-37" data-name="hC" class="cls-4" d="M41.84,59.67H40l0,17h1.84c3.68,0,8.7-3,8.7-6.66V66.32C50.54,62.66,45.52,59.67,41.84,59.67Z" transform="translate(-3.36 1)" />
+		<path id="hB-41" data-name="hB" class="cls-3" d="M35.78,44.75c-3.35,0-7.09,1.74-7.09,5.09v3.63c0,3.34,3.74,6.08,7.09,6.08H40l0-14.8Z" transform="translate(-3.36 1)" />
+		<path id="hC-38" data-name="hC" class="cls-4" d="M44.14,44.75H40l0,14.8h4.13c3.35,0,7.09-2.74,7.09-6.08V49.84C51.23,46.49,47.49,44.75,44.14,44.75Z" transform="translate(-3.36 1)" />
+		<line class="cls-5" x1="30.41" y1="55.83" x2="33.04" y2="55.83" />
+		<line class="cls-5" x1="30.44" y1="51.47" x2="33.07" y2="51.47" />
+		<line class="cls-5" x1="41.14" y1="54.56" x2="43" y2="52.69" />
+		<line class="cls-5" x1="43" y1="54.56" x2="41.14" y2="52.69" />
+		<circle class="cls-5" cx="31.6" cy="53.62" r="0.17" />
+		<circle id="hC-39" data-name="hC" class="cls-4" cx="64.22" cy="68.25" r="2.25" />
+		<circle id="hB-42" data-name="hB" class="cls-3" cx="8.03" cy="68.25" r="2.25" />
+	</g>  
+<!-- 
+   <g id="_1_copy_4" data-name="1 copy 4">
+		<polyline class="cls-2" points="30.87 75.42 30.87 82.06 30.87 88.74" />
+		<polyline class="cls-2" points="42.41 75.42 42.41 82.08 42.41 88.73" />
+		<path id="hB-46" data-name="hB" class="cls-3" d="M38.08,58.67a6.69,6.69,0,0,0-6.7,6.65V69a6.7,6.7,0,0,0,6.7,6.66H40l0-17Z" transform="translate(-3.36 1)" />
+		<path id="hC-43" data-name="hC" class="cls-4" d="M41.84,58.67H40l0,17h1.84A6.7,6.7,0,0,0,48.54,69V65.32A6.7,6.7,0,0,0,41.84,58.67Z" transform="translate(-3.36 1)" />
+		<path id="hB-47" data-name="hB" class="cls-3" d="M35.78,38.75a6.11,6.11,0,0,0-6.09,6.09v3.63a6.11,6.11,0,0,0,6.09,6.08H40l0-15.8Z" transform="translate(-3.36 1)" />
+		<path id="hC-44" data-name="hC" class="cls-4" d="M44.14,38.75H40l0,15.8h4.13a6.11,6.11,0,0,0,6.09-6.08V44.84A6.11,6.11,0,0,0,44.14,38.75Z" transform="translate(-3.36 1)" />
+		<line class="cls-5" x1="30.41" y1="49.83" x2="33.04" y2="49.83" />
+		<line class="cls-5" x1="30.44" y1="45.47" x2="33.07" y2="45.47" />
+		<line class="cls-5" x1="41.14" y1="48.56" x2="43" y2="46.69" />
+		<line class="cls-5" x1="43" y1="48.56" x2="41.14" y2="46.69" />
+		<circle class="cls-5" cx="31.6" cy="47.62" r="0.17" />
+		<circle id="hC-45" data-name="hC" class="cls-4" cx="50.22" cy="75.25" r="2.25" />
+		<circle id="hB-48" data-name="hB" class="cls-3" cx="23.03" cy="75.25" r="2.25" />
+	</g>   --> -->
+</svg>

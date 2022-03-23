@@ -1,0 +1,13 @@
+<svg id="rocket" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.02 20.1">
+	<defs>
+		<style>
+			.cls-1{fill:#4a46c8;stroke-linecap:round;}.cls-1,.cls-2{stroke:#262626;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#fff;}
+		</style>
+	</defs>
+	<path id="hR" class="cls-1" d="M23.53,51.33h7.89l5.52-4c0-2.77-4.26-5-9.52-5C27.42,42.28,30.16,46.3,23.53,51.33Z" transform="translate(-22.33 -32.23)" />
+	<path id="hR-2" data-name="hR" class="cls-1" d="M23.53,33.23h7.89l5.52,4c0,2.78-4.26,5-9.52,5C27.42,42.28,30.16,38.25,23.53,33.23Z" transform="translate(-22.33 -32.23)" />
+	<path id="hP" class="cls-2" d="M55.34,42.28c0-3.83-6.82-6.68-15.43-6.68s-13.17,4.17-13.17,6.68S31.3,49,39.91,49C50.7,49,55.34,46.11,55.34,42.28Z" transform="translate(-22.33 -32.23)" />
+	<path id="hC" class="cls-1" d="M38.43,42.28A25.45,25.45,0,0,0,30,41.07c-5.26,0-6.7,1.21-6.7,1.21s1.44,1.2,6.7,1.2A25.64,25.64,0,0,0,38.43,42.28Z" transform="translate(-22.33 -32.23)" />
+	<circle id="hC-2" data-name="hC" class="cls-1" cx="21.96" cy="10.05" r="2.91" />
+	<path id="hC-3" data-name="hC" class="cls-1" d="M49.23,48c4.21-1.17,6.11-3.23,6.11-5.68,0-2.24-2.33-4.14-6-5.34a18.11,18.11,0,0,1,.8,5.34A17.84,17.84,0,0,1,49.23,48Z" transform="translate(-22.33 -32.23)" />
+</svg>

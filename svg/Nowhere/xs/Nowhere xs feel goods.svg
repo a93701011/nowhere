@@ -1,0 +1,17 @@
+<svg id="Layer_24" data-name="Layer 24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.25 40.25">
+	<defs>
+		<style>
+			.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{fill:none;stroke-linecap:round;stroke-miterlimit:10;stroke-width:4.25px;}
+            .cls-1{stroke:#ba00ff;}
+            .cls-2{stroke:#0af;}
+            .cls-3{stroke:#70ff00;}
+            .cls-4{stroke:#ffda00;}
+            .cls-5{stroke:#ff3600;}
+		</style>
+	</defs>
+	<circle class="cls-1" cx="20.12" cy="20.13" r="2" />
+	<circle class="cls-2" cx="20.13" cy="20.13" r="6" />
+	<circle class="cls-3" cx="20.13" cy="20.13" r="10" />
+	<circle class="cls-4" cx="20.13" cy="20.13" r="14" />
+	<circle class="cls-5" cx="20.13" cy="20.13" r="18" />
+</svg>

@@ -1,0 +1,11 @@
+<svg id="enlightened_1" data-name="enlightened 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.54 21.82">
+	<defs>
+		<style>
+			.cls-1{fill:#fff;}.cls-1,.cls-3{stroke:#262626;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#262626;}.cls-3{fill:none;}
+		</style>
+	</defs>
+	<path class="cls-1" d="M51.77,40A14.06,14.06,0,0,1,40,45.82,14.06,14.06,0,0,1,28.23,40,14.06,14.06,0,0,1,40,34.18,14.06,14.06,0,0,1,51.77,40Z" transform="translate(-25.23 -29.18)" />
+	<circle class="cls-2" cx="14.77" cy="10.82" r="6.29" />
+	<path class="cls-3" d="M26.23,36S31.84,30.18,40,30.18,53.77,36,53.77,36" transform="translate(-25.23 -29.18)" />
+	<path class="cls-3" d="M26.23,44.18S31.84,50,40,50s13.77-5.82,13.77-5.82" transform="translate(-25.23 -29.18)" />
+</svg>

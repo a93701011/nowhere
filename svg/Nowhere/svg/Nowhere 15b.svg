@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 84">
+	<defs>
+		<style>
+			.cls-1{fill:#5a5aff;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#262626;}.cls-1,.cls-2,.cls-4,.cls-5{stroke-linecap:round;}.cls-1,.cls-2,.cls-3,.cls-5{stroke-linejoin:round;}.cls-1,.cls-2,.cls-3{stroke-width:4px;}.cls-2{fill:#ffbd56;}.cls-3{fill:#e13c65;stroke-linecap:square;}.cls-4,.cls-5{fill:none;stroke-width:2px;}.cls-4{stroke-miterlimit:10;}
+		</style>
+	</defs>
+	<g id="C">
+		<polygon id="hC" class="hC" points="71.28 22 36.64 2 36.64 42 71.28 62 71.28 22" />
+	</g>
+	<g id="B">
+		<polygon id="hB" class="hB" points="2 22 2 62 36.64 42 36.64 2 2 22" />
+		
+	</g>
+	<g id="D">
+		<polygon id="hD" class="hD" points="71.28 62 36.64 42 2 62 36.64 82 71.28 62" />
+		<polyline id="hZ" class="cls-4" points="53.96 72 19.32 52 19.32 12" />
+		<polyline id="hZ-2" data-name="hZ" class="cls-4" points="19.32 72 53.96 52 53.96 12" />
+		<polyline id="hZ-3" data-name="hZ" class="cls-5" points="2 42 36.64 22 71.28 42" />
+	</g>
+</svg>

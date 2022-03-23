@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.28 80">
+	<defs>
+		<style>
+			.cls-1{fill:#d8003e;}.cls-2{fill:#4723ce;}.cls-3{fill:#310733;}.cls-4{fill:#e82f11;}
+		</style>
+	</defs>
+	<g id="delete_this" data-name="delete this">
+		<polygon class="cls-1" points="34.64 0 69.28 20 69.28 60 34.64 80 0 60 0 20 34.64 0" />
+	</g>
+	<g id="_2" data-name="2">
+		<polygon class="hA" points="17.32 30 34.64 40 51.95 30.01 34.62 20 17.32 30" />
+		<polygon class="hB" points="17.32 30 17.32 49.99 34.64 59.99 34.64 40 17.32 30" />
+		<polygon class="hC" points="51.95 30.01 34.64 40 34.64 60 51.94 50.01 51.95 30.01" />
+	</g>
+</svg>

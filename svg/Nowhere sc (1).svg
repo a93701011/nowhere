@@ -1,0 +1,16 @@
+<svg id="Layer_31" data-name="Layer 31" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77.53 17.77">
+	<defs>
+		<style>
+			.cls-1{fill:#e464e0;}.cls-1,.cls-2,.cls-3{stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:none;}.cls-3{fill:#c0bde0;}
+		</style>
+	</defs>
+	<path class="cls-1" d="M30.12,47.89h-18c-4.34,0-9.88-3.55-9.88-7.89h0c0-4.33,0-7.88,7.88-7.88h20C38,32.12,38,35.67,38,40h0C38,44.34,38,47.89,30.12,47.89Z" transform="translate(-1.24 -31.12)" />
+	<path class="cls-1" d="M69.88,47.88h-20C42,47.88,42,44.34,42,40h0c0-4.34,0-7.88,7.88-7.88h18c4.34,0,9.88,3.54,9.88,7.88h0C77.76,44.34,77.76,47.88,69.88,47.88Z" transform="translate(-1.24 -31.12)" />
+	<line class="cls-2" x1="36.76" y1="8.88" x2="40.76" y2="8.88" />
+	<rect class="cls-3" x="15.88" y="5.83" width="12" height="6.1" />
+	<line class="cls-2" x1="21.88" y1="5.83" x2="21.88" y2="11.93" />
+	<rect class="cls-3" x="49.65" y="5.83" width="12" height="6.1" />
+	<line class="cls-2" x1="55.65" y1="5.82" x2="55.65" y2="11.92" />
+	<path class="cls-3" d="M69.88,32.39V40h7.88C77.76,36.36,73.26,33.28,69.88,32.39Z" transform="translate(-1.24 -31.12)" />
+	<path class="cls-3" d="M10.12,47.61V40H2.24C2.24,43.64,6.74,46.71,10.12,47.61Z" transform="translate(-1.24 -31.12)" />
+</svg>

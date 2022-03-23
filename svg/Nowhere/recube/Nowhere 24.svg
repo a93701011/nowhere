@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 84">
+	<defs>
+		<style>
+			.cls-1,.cls-2{fill:#5a5aff;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke:#262626;stroke-linecap:square;stroke-linejoin:round;}.cls-1,.cls-3,.cls-5{stroke-width:4px;}.cls-2,.cls-4,.cls-6{stroke-width:2px;}.cls-3,.cls-4{fill:#ffbd56;}.cls-5,.cls-6{fill:#da85e3;}
+		</style>
+	</defs>
+	<g id="C">
+		<polygon id="hC_s4" data-name="hC s4" class="cls-1" points="71.28 22 36.64 42 36.64 82 71.28 62 71.28 22" />
+		<polygon id="hC_s2" data-name="hC s2" class="cls-2" points="62.62 37 45.3 47 45.3 67 62.62 57 62.62 37" />
+	</g>
+	<g id="B">
+		<polygon id="hB_s4" data-name="hB s4" class="cls-3" points="2 22 2 62 36.64 82 36.64 42 2 22" />
+		<polygon id="hB_s2" data-name="hB s2" class="cls-4" points="28.06 47.05 10.66 37 10.66 57 27.98 67 28.06 47.05" />
+	</g>
+	<g id="A">
+		<polygon id="hA_s4" data-name="hA s4" class="cls-5" points="71.28 22 36.64 2 2 22 36.64 42 71.28 22" />
+		<polygon id="hA_s2" data-name="hA s2" class="cls-6" points="36.64 12 19.32 22 36.64 32 53.96 22 36.64 12" />
+	</g>
+</svg>

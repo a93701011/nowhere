@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.28 80">
+	<defs>
+		<style>
+			.cls-1{fill:#171719;}.cls-2{fill:#e82f11;}.cls-3{fill:#310733;}.cls-4{fill:#4723ce;}.cls-5{fill:#cc25cc;}
+		</style>
+	</defs>
+	<g id="Layer_6_copy" data-name="Layer 6 copy">
+		<g id="A_copy_2" data-name="A copy 2">
+			<polygon class="cls-1" points="64.93 22.52 4.36 22.52 34.64 74.97 64.93 22.52 64.93 22.52" />
+		</g>
+	</g>
+	<g id="C">
+		<polygon class="hC" points="69.28 20 34.64 80 69.28 60 69.28 20" />
+		<polygon class="hB" points="60.57 25.03 69.28 20 34.64 80 34.64 69.94 60.57 25.03" />
+		<polygon class="hB" points="0 20 0 60 34.64 80 0 20" />
+		<polygon class="hC" points="0 20 8.71 25.03 34.64 69.94 34.64 80 0 20" />
+		<polygon class="hA" points="69.28 20 34.64 0 0 20 69.28 20" />
+		<polyline class="hblk" points="8.71 25.03 0 20 69.28 20 60.57 25.03 8.71 25.03" />
+	</g>
+</svg>

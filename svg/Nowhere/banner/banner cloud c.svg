@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1508 508">
+	<defs>
+		<style>
+			.cls-1,.cl{fill:#fff;stroke:#231f20;stroke-linejoin:round;}.cls-1{stroke-width:8px;}.cl{stroke-width:4px;}
+		</style>
+	</defs>
+	<g id="Layer_1" data-name="Layer 1">
+		<rect class="cls-1" x="4" y="4" width="1500" height="500" />
+	</g>
+	<g id="cloud_c" data-name="cloud c">
+		<path class="cl" d="M1500,500V0H1166.78C803.64,76.42,388.14,249.38,476.87,159,564.36,69.84,225.63,64.35,0,152.52V500Z" transform="translate(4 4)" />
+		<path class="cl" d="M1500,500V0H1334C1179.06,33.07,941.37,92.42,695,186.51,273.57,347.45,297.74,286,368.87,195c52.84-67.65-220-64.23-368.87,1.81V500Z" transform="translate(4 4)" />
+		<path class="cl" d="M1500,500V150.27c-88.44,13.44-629,96.32-908.78,157C161.34,400.39,358.38,271.44,241.81,250,134.08,230.18,46.28,276.76,0,309.73V500Z" transform="translate(4 4)" />
+		<path class="cl" d="M1500,500V473.05c-420.4-92.27-917.22-112-1277.25-100.18-258.35,8.47,6.35-93.77-86.82-88.95C49.39,288.39,16.05,335.51,0,353.27V500Z" transform="translate(4 4)" />
+	</g>
+</svg>

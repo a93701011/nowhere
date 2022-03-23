@@ -1,0 +1,10 @@
+<svg id="cube_xs" data-name="cube xs" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.61 25.8">
+	<defs>
+		<style>
+			.cls-1{fill:#4a46c8;}.cls-1,.cls-2,.cls-3{stroke:#262626;stroke-linejoin:round;stroke-width:2px;}.cls-1,.cls-2{stroke-linecap:round;}.cls-2{fill:#ffbd56;}.cls-3{fill:#da85e3;stroke-linecap:square;}
+		</style>
+	</defs>
+	<polygon class="hC" points="21.61 6.95 11.31 12.9 11.31 24.8 21.61 18.85 21.61 6.95" />
+	<polygon class="hB" points="1 6.95 1 18.85 11.31 24.8 11.31 12.9 1 6.95" />
+	<polygon class="hA" points="21.61 6.95 11.31 1 1 6.95 11.31 12.9 21.61 6.95" />
+</svg>

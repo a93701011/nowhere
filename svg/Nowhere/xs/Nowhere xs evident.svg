@@ -1,0 +1,14 @@
+<svg id="evident" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.71 25.68">
+	<defs>
+		<style>
+			.cls-1{fill:#ff5831;}
+            .cls-1,.cls-2,.cls-3{stroke:#ba00ff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px;}
+            .cls-2{fill:#c3d8e5;}
+            .cls-3{fill:#405560;}
+		</style>
+	</defs>
+	<path class="hEV1" d="M58.43,42.41c1.22-.72,1.92-1.52,1.92-2.37,0-3.08-9.11-5.58-20.35-5.58S19.65,37,19.65,40c0,.85.7,1.65,1.92,2.37C24.81,40.5,31.84,39.18,40,39.18S55.19,40.5,58.43,42.41Z" transform="translate(-18.65 -27.67)" />
+	<ellipse class="hEV2" cx="21.35" cy="17.09" rx="20.35" ry="5.59" />
+	<path class="hEV2" d="M54,36c-1.69-4.22-7.32-7.33-14-7.33S27.67,31.78,26,36a57.93,57.93,0,0,1,14-1.54A57.93,57.93,0,0,1,54,36Z" transform="translate(-18.65 -27.67)" />
+	<ellipse class="hEV3" cx="21.35" cy="21.34" rx="10.2" ry="3.34" />
+</svg>

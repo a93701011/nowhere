@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1508 508">
+	<defs>
+		<style>
+			.cls-1,.cl{fill:#fff;stroke:#231f20;stroke-linejoin:round;}.cls-1{stroke-width:8px;}.cl{stroke-width:4px;}
+		</style>
+	</defs>
+	<g id="Layer_1" data-name="Layer 1">
+		<rect class="cls-1" x="4" y="4" width="1500" height="500" />
+	</g>
+	<g id="cloud_a" data-name="cloud a">
+		<path class="cl" d="M1500,500V175.09c-348.39-7.12-1088,71-993.49,117.31,257.38,126-582.35,42.35-455.29,103.76C112.13,425.6,66,428.76,0,424.54V500Z" transform="translate(4 4)" />
+		<path class="cl" d="M1500,500V325.53c-305.38-12.3-640.5,5.15-527.61,77,109.09,69.41-1023.77-68.17-841.65,3.91,111,43.93-15.23,46.23-130.74,41.33V500Z" transform="translate(4 4)" />
+		<path class="cl" d="M1500,500V375.58c-201.51,2.37-513.37,9.22-453.49,67.17C1112.16,506.28,63.12,359,229.1,421.57c103.45,39-100.92,50.36-229.1,53.69V500Z" transform="translate(4 4)" />
+	</g>
+</svg>

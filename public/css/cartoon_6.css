@@ -1,0 +1,178 @@
+html,body{
+    margin: 0;
+    width:100vw; 
+    height:100vh;
+    position: relative;
+
+  }
+  
+  #svgbox{
+
+    width:100%;
+    height:100%;    
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    margin: 0;
+    z-index: 0;
+   }
+
+#svgsky{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 0;
+   }
+
+#svgall{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 1;
+}
+ 
+#bg{
+    width:100%;
+    height:100%;  
+    position: absolute;
+    top:0px;
+    left: 0px;
+
+} 
+
+.s{
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
+.hA4,.hB4,.hC4,.hD4{stroke:#3c0eb1;stroke-linecap:square;stroke-linejoin:round;stroke-width:4px;}
+.hC4{fill:#d0a099;}
+.hB4{fill:#d77a73;}
+.hA4{fill:#f3a373;}
+.hD4{fill:#6b53d7;}
+
+.hA,.hB,.hC,.hD{stroke:#3c0eb1;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hC{fill:#d0a099;}
+.hB{fill:#d77a73;}
+.hA{fill:#f3a373;}
+.hD{fill:#6b53d7;}
+
+.hAsh,.hBsh,.hCsh,.hblk{stroke:#3c0eb1;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hAsh{fill:#4f26d1;}
+.hBsh{fill:#4c3595;}
+.hCsh{fill:#624baa;}
+.hblk{fill:#3a47c6;}
+
+.hP{fill: none; stroke:#3c0eb1;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hP4{fill: none; stroke:#3c0eb1;stroke-linecap:square;stroke-linejoin:round;stroke-width:3px;}
+  
+/* .bgcolor{background-color:#809dfd;} */
+svg{background: linear-gradient(#483a6d, #db9f84);}
+
+.none{ fill:none; }
+.op0{fill:#fff;fill-opacity:0}
+
+/* ppl */
+.pplstork,.ppl,.ppr{stroke:#3c0eb1;}
+.ppl{fill:#f0c5b9;}
+.ppr{fill:#6b53d7;}
+.ppl,.ppr{stroke-linecap:square;}
+.pplstork,ppl,.ppr{stroke-linejoin:round;}
+.pplstork{fill:none;stroke-linecap:round;}
+.pplstork,.ppl,.ppr{stroke-width:2px;}
+
+/* house */
+.hHOUS1,.hHOUS2,.hHOUS3,.hHOUS4,.hHOUS5{stroke:#3c0eb1;stroke-linejoin:round;stroke-width:2px;stroke-linecap:round;}
+.hHOUS1{fill:#6b53d7;}
+.hHOUS2{fill:none;}
+.hHOUS3{fill:#f3a373;}
+.hHOUS4{fill:#6b53d7;}
+.hHOUS5{fill:#d0a099;}
+
+/* astronaut */
+.hASTR1,.hASTR3,.hASTR4{stroke:#3c0eb1;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hASTR1{fill:#6b53d7;}
+.hASTR3{fill:#d0a099;}
+.hASTR4{fill:#f0c5b9;}
+
+/* rocket */
+.hR{fill:#f0c5b9;}
+.hR,.hW{stroke:#3c0eb1;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hW{fill:#f3a373;}
+
+/* sincos */
+.hSIN{fill:none; stroke:#3c0eb1;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hTRAN1,.hTRAN2,.hTRAN3{stroke:#3c0eb1;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hTRAN3{fill:#f3a373;}
+.hTRAN1{fill:none;}
+
+/* dot */
+.hDOT{fill:none; stroke:#3c0eb1;stroke-linejoin:round;stroke-width:2px;} 
+
+/* humid */
+.hHUM1{fill:#d77a73;}
+.hHUM1,.hHUM2{stroke:#3c0eb1;stroke-linejoin:round;stroke-width:2px;}
+.hHUM2{fill:#ffc69e;}
+
+/* enlighten */
+.hEYE1{fill:#ffc69e;}
+.hEYE1{stroke:#3a47c6;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEYE2{fill:#3a47c6;}
+
+/* evident */
+.hEV1{fill:#ffc69e;}
+.hEV1,.hEV2,.hEV3{stroke:#3c0eb1;stroke-linecap:round;stroke-width:2px;}
+.hEV2{fill:#d77a73;}
+.hEV3{fill:#3a47c6;}
+
+/* flower*/
+.fpatal{fill:#efbe5e;}
+.fFLOW1,.fFLOW2,.fFLOW3,.fFLOW4{stroke:#3c0eb1;stroke-linecap:round;stroke-linejoin:round;stroke-linejoin:round;stroke-width:2px;}
+.fFLOW1{fill:#c67d2e;}
+.fFLOW2{fill:#efbe5e;}
+.fFLOW3{fill:#51823c;}
+.fFLOW4{fill:none; }
+
+/* rabbit */
+.hRAT1{fill:#eec9b0;stroke-width:2px;stroke:#3c0eb1;stroke-linejoin:round;}
+.hRAT2{fill:#3c0eb1;}
+.hRAT3{fill:#eaebde;}
+.hANS{fill:#f3a373; stroke: none;}
+.hS2{fill:none; stroke-width:2px; stroke:#3c0eb1; stroke-linejoin:round; stroke-linecap:round;}
+
+/* hamster */
+.hHAM1{fill:#d77a73;stroke:#8f534f; stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hHAM2{fill:#ffc69e;}
+.hHAM3{fill:#231f20;}
+.hHAM4{fill:#ffbbce;}
+.hHAM5{fill:#3c0eb1; fill-opacity:0.2; stroke:#3c0eb1; stroke-width:2px;}
+
+
+/* cloud */
+.clS4{stroke:#3c0eb1;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;}
+.cl01{fill:#ffc69e; }
+.cl02{fill:#eec9b0; }
+.cl03{fill:#dfa69d; }
+.cl04{fill:#edc2b1; }
+.cl05{fill:#f0c5b9; }
+.cl06{fill:#9d7594; }
+.cl07{fill:#b58bb1; }
+.cl08{fill:#ba96b6; }
+.cl09{fill:#c5a8c2; }
+.cl10{fill:#cdafca; }
+
+.star{
+    animation: color-change 1s infinite;
+  }
+  
+  @keyframes color-change {
+    0% { fill: #d0a099; }
+    50% { fill: #d77a73; }
+    100% { fill: #f3a373; }
+  }
+
+

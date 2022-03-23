@@ -1,0 +1,15 @@
+<svg id="Layer_6" data-name="Layer 6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.77 39.64">
+	<defs>
+		<style>
+			.cls-1,.cls-3,.cls-4{fill:#4a46c8;}.cls-1,.cls-2,.cls-3,.cls-5,.cls-6{stroke:#262626;stroke-linejoin:round;}.cls-1,.cls-3,.cls-5,.cls-6{stroke-linecap:round;}.cls-1,.cls-2,.cls-5{stroke-width:4px;}.cls-2{fill:#fff;}.cls-3,.cls-6{stroke-width:2px;}.cls-5,.cls-6{fill:none;}
+		</style>
+	</defs>
+	<path id="hR" class="cls-1" d="M12,57.82h6.89c9.32,0,16.88-4,16.88-8.91S28.19,40,18.87,40C18.87,40,23.72,48.91,12,57.82Z" transform="translate(-9.61 -20.18)" />
+	<path id="hR-2" data-name="hR" class="cls-1" d="M12,22.18h6.89c9.32,0,16.88,4,16.88,8.91S28.19,40,18.87,40C18.87,40,23.72,31.09,12,22.18Z" transform="translate(-9.61 -20.18)" />
+	<path id="hP" class="cls-2" d="M68.39,40c0-6.79-12.1-11.84-27.37-11.84S17.65,35.55,17.65,40,25.75,51.91,41,51.91C60.15,51.91,68.39,46.79,68.39,40Z" transform="translate(-9.61 -20.18)" />
+	<path id="hR-3" data-name="hR" class="cls-1" d="M38.39,40s-5.56-3.91-14.89-3.91S11.61,40,11.61,40s2.56,3.91,11.89,3.91S38.39,40,38.39,40Z" transform="translate(-9.61 -20.18)" />
+	<circle id="hR-4" data-name="hR" class="cls-3" cx="39.17" cy="19.82" r="5.16" />
+	<path id="hR-5" data-name="hR" class="cls-4" d="M57.55,50.08C65,48,68.39,44.35,68.39,40c0-4-4.14-7.34-10.63-9.46a32.1,32.1,0,0,1-.21,19.54Z" transform="translate(-9.61 -20.18)" />
+	<path id="hP-2" data-name="hP" class="cls-5" d="M57.55,50.08C65,48,68.39,44.35,68.39,40c0-4-4.14-7.34-10.63-9.46" transform="translate(-9.61 -20.18)" />
+	<path id="hP-3" data-name="hP" class="cls-6" d="M57.55,50.08C65,48,68.39,44.35,68.39,40c0-4-4.14-7.34-10.63-9.46a32.1,32.1,0,0,1-.21,19.54Z" transform="translate(-9.61 -20.18)" />
+</svg>

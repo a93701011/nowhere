@@ -1,0 +1,170 @@
+html,body{
+    margin: 0;
+    width:100vw; 
+    height:100vh;
+    position: relative;
+
+  }
+  
+  #svgbox{
+
+    width:100%;
+    height:100%;    
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    margin: 0;
+    z-index: 0;
+   }
+
+#svgsky{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 0;
+   }
+
+#svgall{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 1;
+}
+ 
+#bg{
+    width:100%;
+    height:100%;  
+    position: absolute;
+    top:0px;
+    left: 0px;
+
+} 
+
+.s{
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+.hA4,.hB4,.hC4,.hD4{stroke:#7b7b7b;stroke-linecap:square;stroke-linejoin:round;stroke-width:3px;}
+.hC4{fill:#1d1d1d;}
+.hB4{fill:#3d3d3d;}
+.hA4{fill:#000000;}
+.hD4{fill:#eaebde;}
+
+.hA,.hB,.hC,.hD{stroke:#7b7b7b;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hC{fill:#1d1d1d;}
+.hB{fill:#3d3d3d;}
+.hA{fill:#000000;}
+.hD{fill:#eaebde;}
+
+.hAsh,.hBsh,.hCsh,.hblk{stroke:#7b7b7b;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hAsh{fill:#9a9a9a;}
+.hBsh{fill:#e8e8e8;}
+.hCsh{fill:#bbbbbb;}
+.hblk{fill:#111111;}
+
+.hP{fill: none; stroke:#6b6b6b;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hP4{fill: none; stroke:#6b6b6b;stroke-linecap:square;stroke-linejoin:round;stroke-width:3px;}
+  
+/* .bgcolor{background-color:#809dfd;} */
+svg{background: linear-gradient(#000000, #000000);}
+
+.none{ fill:none;}
+.op0{fill:#fff;fill-opacity:0}
+
+/* ppl */
+.pplstork,.ppl,.ppr{stroke:#7b7b7b;}
+.ppl{fill:#1d1d1d;}
+.ppr{fill:#bbbbbb;}
+.ppl,.ppr{stroke-linecap:square;}
+.pplstork,ppl,.ppr{stroke-linejoin:round;}
+.pplstork{fill:none;stroke-linecap:round;}
+.pplstork,.ppl,.ppr{stroke-width:2px;}
+
+/* house */
+.hHOUS1,.hHOUS2,.hHOUS3,.hHOUS4,.hHOUS5{stroke:#7b7b7b;stroke-linejoin:round;stroke-width:2px;stroke-linecap:round;}
+.hHOUS1{fill:#bbbbbb;}
+.hHOUS2{fill:none;}
+.hHOUS3{fill:#000000;}
+.hHOUS4{fill:#bbbbbb;}
+.hHOUS5{fill:#1d1d1d;}
+
+/* astronaut */
+.hASTR1,.hASTR3,.hASTR4{stroke:#7b7b7b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hASTR1{fill:#1d1d1d;}
+.hASTR3{fill:#000000;}
+.hASTR4{fill:#bbbbbb;}
+
+
+/* rocket */
+.hR{fill:#1d1d1d;}
+.hR,.hW{stroke:#7b7b7b;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hW{fill:#bbbbbb;}
+ 
+/* sincos */
+.hSIN{fill:none; stroke:#7b7b7b;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hTRAN1,.hTRAN2,.hTRAN3{stroke:#7b7b7b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+/* .hTRAN2{fill:#7d6ce0;} */
+.hTRAN3{fill:#e8e8e8;}
+.hTRAN1{fill:none;}
+
+/* dot */
+.hDOT{fill:none; stroke:#bbbbbb;stroke-linejoin:round;stroke-width:2px;} 
+
+/* humid */
+.hHUM1{fill:#3d3d3d;}
+.hHUM1,.hHUM2{stroke:#7b7b7b;stroke-linejoin:round;stroke-width:2px;}
+.hHUM2{fill:#898989;}
+
+/* enlighten */
+.hEYE1{fill:#c2c2c2;}
+.hEYE1{stroke:#7b7b7b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEYE2{fill:#1d1d1d;}
+
+/* evident */
+.hEV1{fill:#c2c2c2;}
+.hEV1,.hEV2,.hEV3{stroke:#7b7b7b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEV2{fill:#3d3d3d;}
+.hEV3{fill:#111111;}
+
+/* flower*/
+.fpatal{fill:#bbbbbb;}
+.fFLOW1,.fFLOW2,.fFLOW3,.fFLOW4{stroke:#7b7b7b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.fFLOW1{fill:#3d3d3d;}
+.fFLOW2{fill:#bbbbbb;}
+.fFLOW3{fill:#3d3d3d;}
+.fFLOW4{fill:none; }
+
+/* rabbit */
+.hRAT1{fill:#c2c2c2;stroke-width:2px;stroke:#7b7b7b;stroke-linejoin:round;}
+.hRAT2{fill:#1d1d1d;}
+.hRAT3{fill:#eaebde;}
+.hANS{fill:#000000; stroke: none;}
+.hS2{fill:none; stroke-width:2px; stroke:#7b7b7b; stroke-linejoin:round; stroke-linecap:round;}
+
+
+/* hamster */
+.hHAM1{fill:#9a9a9a;stroke:#7b7b7b; stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hHAM2{fill:#c2c2c2;}
+.hHAM3{fill:#231f20;}
+.hHAM4{fill:#c2c2c2;}
+.hHAM5{fill:#7b7b7b; fill-opacity:0.2; stroke:#7b7b7b; stroke-width:2px;}
+
+
+/* cloud */
+.clS4{stroke:#898989;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;}
+.clS2{stroke:#898989;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.cl01{fill:#c2c2c2; }
+.cl02{fill:#c2c2c2; }
+.cl03{fill:#c2c2c2; }
+.cl04{fill:#c2c2c2; }
+.cl05{fill:#c2c2c2; }
+.cl06{fill:#161616; }
+.cl07{fill:#161616; }
+.cl08{fill:#161616; }
+.cl09{fill:#161616; }
+.cl10{fill:#161616; }

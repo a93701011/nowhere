@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 84">
+	<defs>
+		<style>
+			.cls-1,.cls-6{fill:#4a46c8;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke:#262626;stroke-linejoin:round;}.cls-1,.cls-2,.cls-4,.cls-5,.cls-6{stroke-linecap:round;}.cls-1,.cls-2,.cls-3{stroke-width:4px;}.cls-2,.cls-5{fill:#ffbd56;}.cls-3{fill:#da85e3;stroke-linecap:square;}.cls-4,.cls-5,.cls-6{stroke-width:2px;}
+		</style>
+	</defs>
+	<g id="C">
+		<polygon class="hC" points="71.28 22 36.64 42 36.64 82 71.28 62 71.28 22" />
+	</g>
+	<g id="B">
+		<polygon class="hB" points="2 22 2 62 36.64 82 36.64 42 2 22" />
+	</g>
+	<g id="A">
+		<polygon class="hA" points="71.28 22 36.64 2 2 22 36.64 42 71.28 22" />
+		<path  class="hblk" d="M52.25,20c0,3.91-5.48,7.08-12.25,7.08A17.62,17.62,0,0,1,31.34,25h0L14,15,31.33,5l17.1,9.86.23.13h0C50.87,16.27,52.25,18,52.25,20Z" transform="translate(-3.36 2)" />
+		<path  data-name="hB" class="hB" d="M48.43,21.54l.23.13h0a9.21,9.21,0,0,1,2.14,1.66A4.89,4.89,0,0,0,52.25,20c0-1.95-1.38-3.71-3.6-5h0l-.23-.13L31.33,5v6.68Z" transform="translate(-3.36 2)" />
+		<polygon class="hC" points="27.98 7 10.66 17 16.38 20.36 27.98 13.67 27.98 7" />
+	</g>
+</svg>

@@ -1,0 +1,168 @@
+html,body{
+    margin: 0;
+    width:100vw; 
+    height:100vh;
+    position: relative;
+
+  }
+  
+  #svgbox{
+
+    width:100%;
+    height:100%;    
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    margin: 0;
+    z-index: 0;
+   }
+
+#svgsky{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 0;
+   }
+
+#svgall{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 1;
+}
+ 
+#bg{
+    width:100%;
+    height:100%;  
+    position: absolute;
+    top:0px;
+    left: 0px;
+
+} 
+
+.s{
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.hA4,.hB4,.hC4,.hD4{stroke:#ffffff;stroke-linecap:square;stroke-linejoin:round;stroke-width:3px;}
+.hC4{fill:#e6decb;}
+.hB4{fill:#d9ccb9;}
+.hA4{fill:#eaebde;}
+.hD4{fill:#eaebde;}
+
+.hA,.hB,.hC,.hD{stroke:#ffffff;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hC{fill:#e6decb;}
+.hB{fill:#d9ccb9;}
+.hA{fill:#eaebde;}
+.hD{fill:#eaebde;}
+
+.hAsh,.hBsh,.hCsh,.hblk{stroke:#ffffff;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hAsh{fill:#d5d5cf;}
+.hBsh{fill:#b4b4ae;}
+.hCsh{fill:#c5c5c0;}
+.hblk{fill:#d5d5cf;}
+
+.hP{fill: none; stroke:#ffffff;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hP4{fill: none; stroke:#ffffff;stroke-linecap:square;stroke-linejoin:round;stroke-width:3px;}
+  
+/* .bgcolor{background-color:#809dfd;} */
+svg{background: linear-gradient(#dfdfdf, #ffffff);}
+
+.none{ fill:none; }
+.op0{fill:#fff;fill-opacity:0}
+
+/* ppl */
+.pplstork,.ppl,.ppr{stroke:#ffffff;}
+.ppl{fill:#eaebde;}
+.ppr{fill:#d5d5cf;}
+.ppl,.ppr{stroke-linecap:square;}
+.pplstork,ppl,.ppr{stroke-linejoin:round;}
+.pplstork{fill:none;stroke-linecap:round;}
+.pplstork,.ppl,.ppr{stroke-width:2px;}
+
+/* house */
+.hHOUS1,.hHOUS2,.hHOUS3,.hHOUS4,.hHOUS5{stroke:#ffffff;stroke-linejoin:round;stroke-width:2px;stroke-linecap:round;}
+.hHOUS1{fill:#d5d5cf;}
+.hHOUS2{fill:none;}
+.hHOUS3{fill:#eaebde;}
+.hHOUS4{fill:#d5d5cf;}
+.hHOUS5{fill:#e6decb;}
+
+/* astronaut */
+.hASTR1,.hASTR3,.hASTR4{stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hASTR1{fill:#d9ccb9;}
+.hASTR3{fill:#e6decb;}
+.hASTR4{fill:#eaebde;}
+
+/* rocket */
+.hR{fill:#d5d5cf;}
+.hR,.hW{stroke:#ffffff;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hW{fill:#d9ccb9;}
+ 
+/* sincos */
+.hSIN{fill:none; stroke:#ffffff;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hTRAN1,.hTRAN2,.hTRAN3{stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+/* .hTRAN2{fill:#7d6ce0;} */
+.hTRAN3{fill:#d9ccb9;}
+.hTRAN1{fill:none;}
+
+/* dot */
+.hDOT{fill:none; stroke:#ffffff;stroke-linejoin:round;stroke-width:2px;} 
+
+/* humid */
+.hHUM1{fill:#d5d5cf;}
+.hHUM1,.hHUM2{stroke:#ffffff;stroke-linejoin:round;stroke-width:2px;}
+.hHUM2{fill:#e6decb;}
+
+/* enlighten */
+.hEYE1{fill:#eaebde;}
+.hEYE1{stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEYE2{fill:#d5d5cf;}
+
+/* evident */
+.hEV1{fill:#eaebde;}
+.hEV1,.hEV2,.hEV3{stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEV2{fill:#d9ccb9;}
+.hEV3{fill:#d5d5cf;}
+
+/* flower*/
+.fpatal{fill:#ffffff;}
+.fFLOW1,.fFLOW2,.fFLOW3,.fFLOW4{stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.fFLOW1{fill:#d5d5cf;}
+.fFLOW2{fill:#eaebde;}
+.fFLOW3{fill:#d5d5cf;}
+.fFLOW4{fill:none; }
+
+/* rabbit */
+.hRAT1{fill:#e6decb;stroke-width:2px;stroke:#ffffff;stroke-linejoin:round;}
+.hRAT2{fill:#d5d5cf;}
+.hRAT3{fill:#eaebde;}
+.hANS{fill:#eaebde; stroke: none;}
+.hS2{fill:none; stroke-width:2px; stroke:#ffffff; stroke-linejoin:round; stroke-linecap:round;}
+
+/* hamster */
+.hHAM1{fill:#d9ccb9;stroke:#ffffff; stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hHAM2{fill:#ffffff;}
+.hHAM3{fill:#231f20;}
+.hHAM4{fill:#ffbbce;}
+.hHAM5{fill:#ffffff; fill-opacity:0.2; stroke:#ffffff; stroke-width:2px;}
+
+
+/* cloud */
+.clS4{stroke:#eaebde;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;}
+.clS2{stroke:#eaebde;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.cl01{fill:#e2d9c4; }
+.cl02{fill:#e7e1d6; }
+.cl03{fill:#efebe3; }
+.cl04{fill:#e5e4d4; }
+.cl05{fill:#e4dccb; }
+.cl06{fill:#f4f5ed; }
+.cl07{fill:#f0f1e9; }
+.cl08{fill:#ebece4; }
+.cl09{fill:#f2f2ec; }
+.cl10{fill:#f7f7f1; }
+

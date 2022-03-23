@@ -1,0 +1,176 @@
+html,body{
+    margin: 0;
+    width:100vw; 
+    height:100vh;
+    position: relative;
+
+  }
+  
+  #svgbox{
+
+    width:100%;
+    height:100%;    
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    margin: 0;
+    z-index: 0;
+   }
+
+#svgsky{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 0;
+   }
+
+#svgall{
+    width:100%;
+    height:100%;   
+    position: absolute; 
+    top:0px;
+    left: 0px;
+    z-index: 1;
+}
+ 
+#bg{
+    width:100%;
+    height:100%;  
+    position: absolute;
+    top:0px;
+    left: 0px;
+
+} 
+
+.s{
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
+.hA4,.hB4,.hC4,.hD4{stroke:#8b6a6c;stroke-linecap:square;stroke-linejoin:round;stroke-width:4px;}
+.hC4{fill:#bfa0a2;}
+.hB4{fill:#aab6e6;}
+.hA4{fill:#3c20e0;}
+.hD4{fill:#4e09ff;}
+
+.hA,.hB,.hC,.hD{stroke:#8b6a6c;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hC{fill:#bfa0a2;}
+.hB{fill:#939eca;}
+.hA{fill:#3c20e0;}
+.hD{fill:#4e09ff;}
+
+.hAsh,.hBsh,.hCsh,.hblk{stroke:#8b6a6c;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hAsh{fill:#5d42ff;}
+.hBsh{fill:#bbc8ff;}
+.hCsh{fill:#cdb6b8;}
+.hblk{fill:#3a3651;}
+
+.hP{fill: none; stroke:#8b6a6c;stroke-linecap:square;stroke-linejoin:round;stroke-width:2px;}
+.hP4{fill: none; stroke:#8b6a6c;stroke-linecap:square;stroke-linejoin:round;stroke-width:4px;}
+  
+/* .bgcolor{background-color:#809dfd;} */
+svg{background: linear-gradient(#c6c6d9,#fdffd8);}
+
+.none{ fill:none; }
+.op0{fill:#fff;fill-opacity:0}
+
+/* ppl */
+.pplstork,.ppl,.ppr{stroke:#8b6a6c;}
+.ppl{fill:#4e09ff;}
+.ppr{fill:#d8babb;}
+.ppl,.ppr{stroke-linecap:square;}
+.pplstork,ppl,.ppr{stroke-linejoin:round;}
+.pplstork{fill:none;stroke-linecap:round;}
+.pplstork,.ppl,.ppr{stroke-width:2px;}
+
+/* house */
+.hHOUS1,.hHOUS2,.hHOUS3,.hHOUS4,.hHOUS5{stroke:#8b6a6c;stroke-linejoin:round;stroke-width:2px;stroke-linecap:round;}
+.hHOUS1{fill:#4e09ff;}
+.hHOUS2{fill:none;}
+.hHOUS3{fill:#3c20e0;}
+.hHOUS4{fill:#939eca;}
+.hHOUS5{fill:#bfa0a2;}
+
+/* astronaut */
+.hASTR1,.hASTR3,.hASTR4{stroke:#8b6a6c;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hASTR1{fill:#939eca;}
+.hASTR3{fill:#3c20e0;}
+.hASTR4{fill:#bbc8ff;}
+
+/* rocket */
+.hR{fill:#3c20e0;}
+.hR,.hW{stroke:#a08082;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hW{fill:#aab6e6;}
+
+/* sincos */
+.hSIN{fill:none; stroke:#8b6a6c;stroke-linejoin:round;stroke-linecap:round;stroke-width:2px;}
+.hTRAN1,.hTRAN2,.hTRAN3{stroke:#a08082;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hTRAN3{fill:#3c20e0;}
+.hTRAN1{fill:none;}
+
+/* dot */
+.hDOT{fill:none; stroke:#8b6a6c;stroke-linejoin:round;stroke-width:2px;} 
+
+/* humid */
+.hHUM1{fill:#d2d3d3;}
+.hHUM1,.hHUM2{stroke:#8b6a6c;stroke-linejoin:round;stroke-width:2px;}
+.hHUM2{fill:#d2d3d3;}
+
+/* enlighten */
+.hEYE1{fill:#d2d3d3;}
+.hEYE1{stroke:#8b6a6c;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEYE2{fill:#3a3651;}
+
+/* evident */
+.hEV1{fill:#4c00e7;}
+.hEV1,.hEV2,.hEV3{stroke:#8b6a6c;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hEV2{fill:#4c00e7;}
+.hEV3{fill:#3a3651;}
+
+/* flower*/
+.fpatal{fill:#d2d3d3;}
+.fFLOW1,.fFLOW2,.fFLOW3,.fFLOW4{stroke:#8b6a6c;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.fFLOW1{fill:#5d42ff;}
+.fFLOW2{fill:#d2d3d3;}
+.fFLOW3{fill:#cdb6b8;}
+.fFLOW4{fill:none; }
+
+/* rabbit */
+.hRAT1{fill:#d2d3d3;stroke-width:2px;stroke:#8b6a6c;stroke-linejoin:round;}
+.hRAT2{fill:#3a3651;}
+.hRAT3{fill:#d7b3e1;}
+.hANS{fill:#3c20e0; stroke: none;}
+.hS2{fill:none; stroke-width:2px; stroke:#8b6a6c; stroke-linejoin:round; stroke-linecap:round;}
+
+/* hamster */
+.hHAM1{fill:#bfa0a2;stroke:#8b6a6c; stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}
+.hHAM2{fill:#d2d3d3;}
+.hHAM3{fill:#231f20;}
+.hHAM4{fill:#ffbbce;}
+.hHAM5{fill:#a47880; fill-opacity:0.2; stroke:#a47880; stroke-width:2px;}
+
+
+/* cloud */
+.clS4{stroke:#a47880;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;}
+.cl01{fill:#bac4ef; }
+.cl02{fill:#d3d9e0; }
+.cl03{fill:#aab3d7; }
+.cl04{fill:#d5d7bd; }
+.cl05{fill:#dbdcd0; }
+.cl06{fill:#bab1b2; }
+.cl07{fill:#602bbb; }
+.cl08{fill:#4228af; }
+.cl09{fill:#502bbb; }
+.cl10{fill:#402bbb; }
+
+.star{
+    animation: color-change 1s infinite;
+  }
+  
+  @keyframes color-change {
+    0% { fill: #bfa0a2; }
+    50% { fill: #aab6e6; }
+    100% { fill: #3c20e0; }
+  }

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.28 80">
+	<defs>
+		<style>
+			.cls-1{fill:#e82f11;}.cls-2{fill:#310733;}.cls-3{fill:#4723ce;}
+		</style>
+	</defs>
+	<g id="D">
+		<polyline class="hD" points="34.64 40 0 60 34.64 80 69.28 60 34.64 40" />
+		<polygon  class="hB" points="34.64 0 34.64 40 0 60 0 20 34.64 0" />
+		<path class="hC" d="M40,0V40L74.64,60V20ZM61.65,42.51a6.32,6.32,0,0,1-.93,3.38h0a6.32,6.32,0,0,1-3.4-.9c-4.82-2.8-8.65-10.21-8.65-15V10l0,0,13,7.48Z" transform="translate(-5.36)" />
+		<polygon class="hD" points="43.34 10.01 56.29 17.49 60.61 14.99 47.66 7.51 43.31 5 43.31 9.99 43.34 10.01" />
+		<path class="hB" d="M61.65,42.51a6.32,6.32,0,0,1-.93,3.38h0A5.31,5.31,0,0,0,65,43.39,6.32,6.32,0,0,0,66,40V15l-4.32,2.5Z" transform="translate(-5.36)" />
+	</g>
+</svg>

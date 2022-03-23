@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 84">
+	<defs>
+		<style>
+			.cls-1{fill:#ffbd56;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke:#262626;stroke-linejoin:round;}.cls-1,.cls-3,.cls-4,.cls-6{stroke-linecap:round;}.cls-1,.cls-2,.cls-3{stroke-width:4px;}.cls-2,.cls-5{fill:#da85e3;stroke-linecap:square;}.cls-3,.cls-6{fill:#4a46c8;}.cls-4,.cls-5,.cls-6{stroke-width:2px;}
+		</style>
+	</defs>
+	<g id="Layer_6_copy" data-name="Layer 6 copy">
+		<polygon class="hB4" points="2 22 2 62 36.64 42 36.64 2 2 22" />
+		<polygon class="hD4" points="71.28 62 36.64 42 2 62 36.64 82 71.28 62" />
+		<polygon class="hC4" points="71.28 22 36.64 2 36.64 42 71.28 62 71.28 22" />
+		<path class="hblk" d="M28.82,19.38c3.39,2,3.39,8.29,0,14.15A17.53,17.53,0,0,1,22.69,40h0L5.38,50V30l17.08-9.87L22.7,20h0C24.92,18.72,27.13,18.41,28.82,19.38Z" transform="translate(-3.36 2)" />
+		<path class="hD" d="M28.26,23.47l.23-.13h0a9.09,9.09,0,0,1,2.51-1,5,5,0,0,0-2.18-2.94c-1.69-1-3.9-.66-6.12.62h0l-.23.13L5.39,30l5.78,3.35Z" transform="translate(-3.36 2)" />
+		<polygon class="hC" points="2.02 31.97 2.02 51.97 7.79 48.66 7.79 35.3 2.02 31.97" />
+	</g>
+</svg>

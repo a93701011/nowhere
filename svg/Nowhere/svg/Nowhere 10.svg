@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.28 84">
+	<defs>
+		<style>
+			.cls-1{fill:#4a46c8;}.cls-1,.cls-2,.cls-3,.hP{stroke:#262626;stroke-linejoin:round;}.cls-1,.cls-2,.hP{stroke-linecap:round;}.cls-1,.cls-2,.cls-3{stroke-width:4px;}.cls-2{fill:#ffbd56;}.cls-3{fill:#da85e3;stroke-linecap:square;}.hP{fill:none;stroke-width:2px;}
+		</style>
+	</defs>
+	<g id="C">
+		<polygon class="hC" points="71.28 22 36.64 42 36.64 82 71.28 62 71.28 22" />
+	</g>
+	<g id="B">
+		<polygon class="hB" points="2 22 2 62 36.64 82 36.64 42 2 22" />
+	</g>
+	<g id="A">
+		<polygon class="hA" points="71.28 22 36.64 2 2 22 36.64 42 71.28 22" />
+		<polyline class="hP" points="59.73 15.33 25.13 35.35 25.13 75.35" />
+		<polyline class="hP" points="48.27 8.72 13.54 28.66 13.54 68.66" />
+		<polyline class="hP" points="25.03 8.71 59.73 28.66 60.46 68.25" />
+		<polyline class="hP" points="13.56 15.33 48.1 35.39 48.27 75.35" />
+		<polyline class="hP" points="71.28 35.33 36.64 55.38 2 35.33" />
+		<polyline class="hP" points="71.28 48.69 36.64 68.67 1.99 48.69" />
+	</g>
+</svg>

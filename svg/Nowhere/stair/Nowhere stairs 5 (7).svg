@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 55.5">
+	<defs>
+		<style>
+			.cls-1{fill:#da85e3;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke:#262626;stroke-linejoin:round;}
+            .cls-1,.cls-2,.cls-3,.cls-5,.cls-6{stroke-linecap:round;}.cls-1,.cls-3,.cls-5,.cls-6{stroke-width:2px;}
+            .cls-2,.cls-4,.cls-6{fill:none;}.cls-2,.cls-4{stroke-width:4px;}.cls-3{fill:#5a5aff;}.cls-4{stroke-linecap:square;}.cls-5{fill:#ffbd56;}
+		</style>
+	</defs>
+	<g id="A">
+		<polygon class="hA" points="2 3.5 6.38 1 53.96 28.5 49.63 31 19.4 13.54 2 3.5" />
+		<polyline class="hP4" points="2 4.66 2 43.5 19.32 53.5 53 34.13" />
+		<polyline class="hC" points="19.4 13.54 19.32 53.5 53.96 33.5 53.96 28.5 49.63 31 49.63 26 45.3 28.51 45.32 23.51 40.97 26 40.95 20.96 36.63 23.5 36.67 18.52 32.33 20.99 32.33 16.02 28.02 18.52 27.98 13.5 23.63 16.01 23.67 11.01 19.4 13.54" />
+		<line  class="hP4" x1="19.39" y1="14.44" x2="19.32" y2="52.31" />
+		<polyline class="hB" points="19.32 13.54 19.32 53.5 2 43.5 2 3.5 19.32 13.54" />
+		<line class="hP" x1="19.32" y1="14.75" x2="2" y2="4.66" />
+	</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="astronaut" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.45 42.73">
+	<defs>
+		<style>
+			.cls-1{fill:#af22d1;}.cls-1,.cls-3,.cls-4{stroke:#494949;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#e464ff;opacity:0.25;}.cls-3{fill:#e88aff;}.cls-4{fill:#8dd9ff;}
+		</style>
+	</defs>
+	<rect class="cls-1" x="30.3" y="7.03" width="11.29" height="28.68" rx="3.26" />
+	<circle class="cls-2" cx="45.85" cy="21.18" r="13.6" />
+	<path class="cls-3" d="M55.63,60.09a13.57,13.57,0,0,0-10.15,4.56c-.66-2.16-3.86-11.56-9-11.14-5.78.47-2.37,10-2.37,10s-23.35-1.34-23.35,3.37S25.4,74,25.4,74s-14.52,2.1-14.52,6.81,23.36,3.37,23.36,3.37-3.42,9.57,2.37,10c5.28.43,8.52-9.6,9-11.33a13.59,13.59,0,1,0,10-22.8Z" transform="translate(-9.78 -52.5)" />
+	<rect class="cls-4" x="38.95" y="11" width="13.81" height="20.36" rx="6.91" />
+	<path class="cls-1" d="M40.65,80.17H35.48c-.77,0-1.39-.85-1.39-1.89V69.45c0-1,.62-1.89,1.39-1.89h5.17c.76,0,1.38.85,1.38,1.89v8.83C42,79.32,41.41,80.17,40.65,80.17Z" transform="translate(-9.78 -52.5)" />
+</svg>

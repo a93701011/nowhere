@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.28 80">
+	<defs>
+		<style>
+			.cls-1{fill:#4723ce;}.cls-2{fill:#310733;}.cls-3{fill:#e82f11;}
+		</style>
+	</defs>
+	<g id="HAsh">
+		<polygon class="hAsh" points="69.28 60 38.6 42.28 36.81 41.25 34.64 40 0 60 4.33 60 34.64 42.5 36.81 43.75 64.82 59.92 64.95 60 69.28 60" />
+	</g>
+	<g id="Hbsh">
+		<polygon class="hBsh" points="67.12 56.25 36.81 38.75 36.81 3.75 34.64 0 34.64 40 69.28 60 67.12 56.25" />
+	</g>
+	<g id="Hcsh">
+		<polygon class="hCsh" points="32.48 3.75 32.34 38.67 2.17 56.25 0 60 34.64 40 34.64 0 32.48 3.75" />
+	</g>
+	<g id="HC">
+		<path class="hC" d="M40,40V80L74.64,60V20ZM72.34,58.67,42.17,76.25v-35l30.31-17.5Z" transform="translate(-5.36)" />
+	</g>
+	<g id="HB">
+		<path class="hB" d="M5.36,60,40,80V40L5.36,20ZM7.52,23.75l30.31,17.5v35L7.52,58.75Z" transform="translate(-5.36)" />
+	</g>
+	<g id="HA">
+		<path class="hA" d="M40,0,5.36,20,40,40,74.64,20ZM9.69,20,40,2.5,70.31,20,40,37.5Z" transform="translate(-5.36)" />
+	</g>
+</svg>
